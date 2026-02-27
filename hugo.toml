@@ -1,0 +1,73 @@
+baseURL = 'https://www.taginprag.de/'
+languageCode = 'de-de'
+title = 'Tag in Prag. Stadtführungen'
+theme = 'beautifulhugo'
+enableRobotsTXT = true
+relativeURLs = true
+canonifyURLs = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  logo = "img/logo.png"       # Versuche es ohne navbar- Vorsilbe
+  favicon = "img/favicon.ico" # (Optional) Falls du auch ein Icon im Tab willst
+mainSections = ["tours", "posts"]
+show_thumbnail = true
+showSocial = true
+show_image_in_list = true
+custom_css = ["css/custom.css"]
+show_image_in_post = true
+# Erlaubt dem Theme, Bilder besser zu verarbeiten
+image_relative = false
+paginate = 5  # Zeigt insgesamt nur 5 Elemente (z.B. 3 Touren + 2 Posts)
+  social_icons = true
+  instagram = "https://instagram.com/deinname"
+  facebook = "https://facebook.com/deinname"
+
+[params.static]
+  # Hintergrundfarbe (Soft Ivory)
+  backgroundColor = "#f9f7f2"
+
+[[menu.main]]
+    name = "WhatsApp"
+    url = "https://wa.me/+4915254389034"
+    weight = 4
+
+[[menu.main]]
+    name = "E-Mail"
+    url = "mailto:info@taginprag.de"
+    weight = 5
+
+[[menu.main]]
+    name = "Touren"
+    url = "/tours/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "Über mich"
+    url = "/about/"
+    weight = 3      
+
+
+defaultContentLanguage = "de"
+
+[languages.de]
+  languageName = "Deutsch"
+  contentDir = "content" # Wichtig für Linux
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"

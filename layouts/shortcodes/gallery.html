@@ -1,0 +1,8 @@
+<div class="tour-gallery">
+  {{ $images := split (.Get "images") "," }}
+  {{ range $images }}
+    {{ $img := trim . " " }} <div class="gallery-item">
+      <img src="{{ $img | absURL }}" alt="Impressionen">
+    </div>
+  {{ end }}
+</div>
