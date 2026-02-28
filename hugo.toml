@@ -1,4 +1,4 @@
-baseURL = 'https://rickihaargast.github.io/Taginprag/'
+baseURL = "https://rickihaargast.github.io/Taginprag/"
 languageCode = "de-de"
 defaultContentLanguage = "de"
 title = 'Tag in Prag. Stadtführungen'
