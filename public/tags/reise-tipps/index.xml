@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reise-Tipps on Tag in Prag. Stadtführungen</title>
+    <link>http://localhost:1313/Taginprag/tags/reise-tipps/</link>
+    <description>Recent content in Reise-Tipps on Tag in Prag. Stadtführungen</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Taginprag/tags/reise-tipps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geld und bezahlen in Prag</title>
+      <link>http://localhost:1313/Taginprag/posts/geld/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/posts/geld/</guid>
+      <description>Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights.</description>
+    </item>
+  </channel>
+</rss>

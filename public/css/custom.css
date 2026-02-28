@@ -1,0 +1,293 @@
+/* ==========================================================================
+   1. FARBPALETTE & BASIS (PRAG THEME)
+   ========================================================================== */
+body { background-color: #f9f7f2; color: #1c1c1c; }
+.navbar-custom { background-color: #661a45 !important; border-bottom: 3px solid #edd88f; }
+footer { background-color: #661a45; color: #f9f7f2; }
+
+/* Links & Footer */
+footer a { color: #f9f7f2 !important; text-decoration: none; border-bottom: 1px solid #edd88f; }
+footer a:hover { color: #edd88f !important; }
+footer .fa-stack-2x, footer .list-inline li i { color: #edd88f !important; }
+
+/* Ausblendungen */
+.container .page-heading h1 { display: none !important; } /* Titel auf Startseite aus */
+
+/* ==========================================================================
+   2. NAVIGATION (DESKTOP)
+   ========================================================================== */
+.navbar-custom .nav.navbar-nav li a { color: #f9f7f2; }
+.navbar-custom .nav.navbar-nav li a:hover { color: #edd88f !important; }
+
+/* Logo-Container Styling */
+.avatar-container, .avatar-img {
+    border-radius: 0 !important; border: none !important;
+    box-shadow: none !important; margin: 0 !important;
+}
+
+.navbar-brand {
+    display: flex !important; align-items: center !important;
+    padding-left: 15px !important; color: #f9f7f2 !important;
+}
+
+/* ==========================================================================
+   3. KOMPONENTEN (KACHELN, BUTTONS, GALERIE)
+   ========================================================================== */
+/* Tour-Kacheln (Startseite) */
+.grid-container { display: flex; flex-wrap: wrap; gap: 20px; padding: 20px 0; }
+.grid-card {
+    background-color: #fdfaf2 !important; border: 1px solid #edd88f !important;
+    border-radius: 8px; overflow: hidden; flex: 1 1 calc(25% - 20px);
+    display: flex; flex-direction: column; transition: transform 0.3s ease;
+}
+.grid-card:hover { transform: translateY(-5px); border-color: #661a45 !important; }
+.tour-price { font-weight: bold; color: #661a45; border-bottom: 2px solid #edd88f; }
+
+/* Bilder-Galerie (In Artikeln) */
+.tour-gallery { display: grid !important; grid-template-columns: repeat(3, 1fr); gap: 15px; margin: 30px 0; }
+.gallery-item img {
+    width: 100% !important; height: 200px !important; 
+    object-fit: cover; border-radius: 8px; border: 1px solid #edd88f;
+}
+
+/* Kontakt-Buttons */
+.btn-contact { display: inline-block; padding: 12px 20px; border-radius: 5px; color: white !important; font-weight: bold; text-decoration: none !important; }
+.btn-whatsapp { background-color: #25D366; }
+.btn-mail, .post-read-more { background-color: #da1f88; }
+.post-read-more:hover, .btn-mail:hover { background-color: #661a45; }
+
+/* Stellt sicher, dass der Balken IMMER Bordeaux bleibt, egal ob Desktop oder Handy */
+.navbar-custom, .navbar-default {
+    background-color: #661a45 !important;
+}
+
+/* Verhindert, dass das Menü auf Desktop Elfenbein wird */
+@media (min-width: 992px) {
+    .navbar-collapse {
+        background-color: transparent !important;
+    }
+}
+
+/* Das Bild in der Kachel wieder sichtbar machen */
+.card-image {
+    height: 200px !important; /* Gibt dem Bild Raum */
+    background-size: cover !important; /* Füllt die Fläche aus */
+    background-position: center !important; /* Zentriert das Motiv */
+    width: 100%;
+    display: block;
+}
+
+/* Falls du normale <img> Tags in den Kacheln nutzt, hilft das hier zusätzlich: */
+.grid-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Den unschönen rosa Kasten entfernen und Link stylen */
+.post-read-more {
+    display: inline-block !important;
+    background: none !important;    /* Entfernt den rosa/grauen Hintergrund */
+    background-color: transparent !important;
+    border: none !important;        /* Entfernt etwaige Rahmen */
+    box-shadow: none !important;    /* Entfernt Schatten */
+    color: #661a45 !important;      /* Dein Bordeaux */
+    padding: 0 !important;          /* Entfernt den inneren Abstand des Kastens */
+    margin-top: 10px !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    border-bottom: 2px solid #edd88f !important; /* Goldene Linie statt Kasten */
+    transition: all 0.3s ease;
+}
+
+/* Hover-Effekt für den Link */
+.post-read-more:hover {
+    color: #da1f88 !important;      /* Wechselt zu Magenta beim Drüberfahren */
+    border-bottom-color: #661a45 !important; /* Linie wird bordeaux */
+    background: none !important;
+}
+
+/* Datum und Autor (Metadaten) in der Detailansicht ausblenden */
+.post-meta {
+    display: none !important;
+}
+
+/* Falls unter dem Titel noch ein kleiner grauer Strich war, entfernen wir den auch */
+.header-section.has-img .post-meta {
+    display: none !important;
+}
+
+/* Positionierung des Logos im Footer */
+.footer-custom-container {
+    position: relative;
+    width: 100%;
+}
+
+.footer-logo-custom {
+    position: absolute;
+    bottom: 30px;    /* Abstand zum unteren Rand */
+    left: 60px;      /* Ganz links bündig */
+    height: 60px;    /* Größe nach Wunsch */
+    width: auto;
+    transition: opacity 0.3s;
+}
+
+.footer-logo-custom:hover {
+    opacity: 1;
+}
+
+/* Mobil: Logo unter den Social Media Icons zentrieren */
+@media (max-width: 768px) {
+    .footer-logo-custom {
+        position: static;
+        display: block;
+        margin: 20px auto;
+        height: 50px;
+    }
+}
+
+.related-wrapper { display: flex; gap: 20px; margin-top: 20px; }
+.related-card { flex: 1; border: 1px solid #eee; padding: 10px; border-radius: 5px; transition: transform 0.2s; }
+.related-card:hover { transform: translateY(-5px); }
+.related-card img { width: 100%; height: 120px; object-fit: cover; border-radius: 3px; }
+.related-card h4 { font-size: 1rem; margin-top: 10px; color: #800000; }
+
+/* Container für das Bild vorbereiten */
+.card-image {
+    position: relative !important; /* Erlaubt absolute Positionierung darin */
+    overflow: hidden;
+}
+
+/* Der Preis-Tag selbst */
+.card-price-tag {
+    position: absolute !important;
+    top: 10px !important;
+    right: 10px !important;
+    background-color: #800000 !important; /* Dein Bordeaux */
+    color: white !important;
+    padding: 5px 12px !important;
+    font-weight: bold !important;
+    font-size: 1 rem !important;
+    border-radius: 3px !important;
+    z-index: 10 !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+/* Verhindert, dass der alte "tour-price" (falls noch im CSS) stört */
+.tour-price {
+    display: none !important;
+}
+
+.related-card img {
+    width: 100%;
+    height: 150px;       /* Feste Höhe erzwingen */
+    object-fit: cover;   /* Bild wird beschnitten, statt verzerrt */
+    object-position: center; 
+    border-radius: 4px 4px 0 0;
+}
+
+
+
+/* ==========================================================================
+   4. MOBILE OPTIMIERUNG (ZURÜCK ZUM ORIGINAL-LOOK)
+   ========================================================================== */
+
+@media (max-width: 991px) {
+    /* Header-Layout: Logo links, Menü rechts */
+    .navbar-header {
+        display: flex !important;
+        flex-direction: row-reverse !important; 
+        justify-content: space-between !important;
+        align-items: center !important;
+        width: 100% !important;
+        padding: 0 15px !important;
+    }
+
+    /* Das Logo bleibt links */
+    .navbar-brand {
+        display: flex !important;
+        align-items: center !important;
+        float: none !important;
+        margin: 0 !important;
+        padding: 5px 0 !important;
+    }
+
+    /* Das Menü (Hamburger) bleibt rechts */
+    .navbar-toggle {
+        display: block !important;
+        float: none !important;
+        margin: 0 !important;
+    }
+
+    /* MENÜ-OPTIK: Zurück auf Bordeaux (wie früher) */
+    .navbar-collapse, 
+    .navbar-collapse.collapse.in {
+        background-color: #661a45 !important; /* Bordeaux wie der Balken */
+        border: none !important;
+    }
+
+    /* Schrift im mobilen Menü wieder Elfenbein */
+    .navbar-nav li a {
+        color: #f9f7f2 !important;
+        border-bottom: 1px solid rgba(237, 216, 143, 0.2); /* Sehr dezente Trennung */
+    }
+
+    /* Logo-Bild Größe am Handy */
+    .navbar-brand-static img {
+        height: 35px !important;
+        width: auto;
+        margin-right: 10px;
+    }
+}
+
+/* Galerie & Kacheln Fix für kleine Handys */
+@media (max-width: 768px) {
+    .tour-gallery { grid-template-columns: repeat(2, 1fr) !important; }
+    .grid-card { flex: 1 1 100%; }
+}
+
+/* Nur Handy */
+@media (max-width: 768px) {
+    .tour-gallery { grid-template-columns: repeat(2, 1fr) !important; }
+    .grid-card { flex: 1 1 100%; }
+    .intro-header { padding: 50px 0 20px !important; }
+    .intro-header .page-heading h1 { font-size: 24px !important; }
+    .btn-contact { display: block; margin: 10px 0; text-align: center; }
+}
+
+/* 1. Die Titel in den Kacheln (tours & posts) */
+.card-content h3 a, 
+.grid-card h3 a {
+    color: #661a45 !important; /* Dein Bordeaux */
+    text-decoration: none !important;
+}
+
+.card-content h3 a:hover, 
+.grid-card h3 a:hover {
+    color: #da1f88 !important; /* Das hellere Magenta beim Drüberfahren */
+}
+
+/* 2. Der "Weiterlesen"-Link (Read more) */
+.read-more {
+    color: #661a45 !important;
+    font-weight: bold;
+    text-decoration: none !important;
+    margin-top: auto;
+}
+
+.read-more:hover {
+    color: #da1f88 !important;
+    text-decoration: underline !important;
+}
+
+/* Die "Vorheriger & Nächster Post" Navigation unter Artikeln ausblenden */
+.pager {
+    display: none !important;
+}
+
+/* Falls dein Theme eine andere Struktur nutzt, greift zusätzlich dieser Selektor */
+.post-nav {
+    display: none !important;
+}

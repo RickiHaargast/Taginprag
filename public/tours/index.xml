@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meine Touren on Tag in Prag. Stadtführungen</title>
+    <link>http://localhost:1313/Taginprag/tours/</link>
+    <description>Recent content in Meine Touren on Tag in Prag. Stadtführungen</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Taginprag/tours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geheimnisse der Altstadt</title>
+      <link>http://localhost:1313/Taginprag/tours/altstadt/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/altstadt/</guid>
+      <description>Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.</description>
+    </item>
+    <item>
+      <title>Historisch-politische Tour</title>
+      <link>http://localhost:1313/Taginprag/tours/historisch/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/historisch/</guid>
+      <description>Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom 30jährigen Krieg bis zur Samtenen Revolution.</description>
+    </item>
+    <item>
+      <title>Könige, Kaiser, Präsidenten: Prager Burg und Veits-Dom</title>
+      <link>http://localhost:1313/Taginprag/tours/burg/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/burg/</guid>
+      <description>Bei dieser Tour erkunden wir das gigantische Burgareal, von den Ursprüngen der böhmischen Staatlichkeit über das Kaiserreich und die Habsburger Monarchie bis zum EU-Beitritt. Wir betreten auch den Veits-Dom, den alten Königspalast sowie das Goldene Gässchen.</description>
+    </item>
+    <item>
+      <title>Romantische Gassen der Kleinseite und Prager Burg</title>
+      <link>http://localhost:1313/Taginprag/tours/kleinseite/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/kleinseite/</guid>
+      <description>Spaziergang durch die malerische Kleinseite – vorbei an prunkvollen Palais und auf den Spuren von Jan Neruda. Über die neue Schlosstreppe zur Prager Burg mit traumhaftem Blick über Prag. Zum Abschluss ein Abstecher zur Deutsche Botschaft und ihre bewegende Geschichte von 1989.</description>
+    </item>
+    <item>
+      <title>Fahrradtouren</title>
+      <link>http://localhost:1313/Taginprag/tours/fahrradtouren/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/fahrradtouren/</guid>
+      <description>Fahrradtouren – erkunde Prag auf zwei Rädern</description>
+    </item>
+    <item>
+      <title>Prag bei Nacht</title>
+      <link>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</guid>
+      <description>Spaziergang durch das nächtliche Prag – lerne eine völlig neue Seite der Stadt kennen, sehe die neugotischen Türme</description>
+    </item>
+  </channel>
+</rss>

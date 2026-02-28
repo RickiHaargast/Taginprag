@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Familienfreundlich on Tag in Prag. Stadtführungen</title>
+    <link>http://localhost:1313/Taginprag/tags/familienfreundlich/</link>
+    <description>Recent content in Familienfreundlich on Tag in Prag. Stadtführungen</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/Taginprag/tags/familienfreundlich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Der Orloj - was soll&#39;s?&#39;</title>
+      <link>http://localhost:1313/Taginprag/posts/orloj/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/posts/orloj/</guid>
+      <description>Die astronomische Uhr am alten Rathaus. Muss man gesehen haben. Aber warum eigentlich?</description>
+    </item>
+  </channel>
+</rss>
