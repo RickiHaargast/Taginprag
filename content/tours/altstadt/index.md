@@ -3,8 +3,12 @@ title: "Geheimnisse der Altstadt"
 description: "Entdecken Sie die Prager Altstadt bei einer persönlichen Führung. Geschichte, Legenden und die besten Cafés abseits der Touristenpfade."
 date: 2026-02-18
 summary: Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.
-web_image: "/img/tours/pfadfinderinstitut_sm.jpg"
-whatsapp_image: "/img/tours/altstadt_sm.jpg"
+# Das Bild für die Listenansicht (Thumbnail):
+thumbnail-logo: "img/tours/pfadfinderinstitut_sm.jpg"
+# Das Bild, das oben im großen Header der Einzelseite erscheint:
+image: "img/tours/altstadt_sm.jpg"
+# Das Bild für Social Media (WhatsApp/Facebook):
+share_img: "img/tours/altstadt_sm.jpg"
 price: ab 32 €
 duration: 3 Stunden
 weight: 10  
