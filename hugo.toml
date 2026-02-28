@@ -1,5 +1,6 @@
 baseURL = 'https://www.taginprag.de/'
-languageCode = 'de-de'
+languageCode = "de-de"
+defaultContentLanguage = "de"
 title = 'Tag in Prag. Stadtführungen'
 theme = 'beautifulhugo'
 enableRobotsTXT = true
@@ -56,12 +57,11 @@ paginate = 5  # Zeigt insgesamt nur 5 Elemente (z.B. 3 Touren + 2 Posts)
     url = "/about/"
     weight = 3      
 
-
-defaultContentLanguage = "de"
-
-[languages.de]
-  languageName = "Deutsch"
-  contentDir = "content" # Wichtig für Linux
+[languages]
+  [languages.de]
+    languageName = "Deutsch"
+    contentDir = "content"
+    weight = 1
 
 [markup]
   [markup.goldmark]
