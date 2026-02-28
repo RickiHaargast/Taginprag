@@ -4,8 +4,8 @@ defaultContentLanguage = "de"
 title = 'Tag in Prag. Stadtführungen'
 theme = 'beautifulhugo'
 enableRobotsTXT = true
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false
+canonifyURLs = true
 
 [sitemap]
   changefreq = "weekly"
