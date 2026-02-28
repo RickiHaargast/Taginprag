@@ -6,6 +6,7 @@ summary: Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir se
 # Wir lassen den ersten Schrägstrich weg, da canonifyURLs = true aktiv ist:
 image: "img/tours/pfadfinderinstitut_sm.jpg"
 thumbnail: "img/tours/pfadfinderinstitut_sm.jpg"
+feature: "img/tours/pfadfinderinstitut_sm.jpg"
 thumbnail-logo: "img/tours/pfadfinderinstitut_sm.jpg"
 featureImg: "img/tours/pfadfinderinstitut_sm.jpg"
 # Für die Social-Media-Vorschau:
