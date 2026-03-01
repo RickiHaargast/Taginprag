@@ -4,7 +4,7 @@ description: "Entdecken Sie die Prager Altstadt bei einer persönlichen Führung
 date: 2026-02-18
 summary: Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.
 thumbnail: "img/tours/pfadfinderinstitut_sm.jpg"
-image: "img/tours/pfadfinderinstitut_sm.jpg"
+webimage: "img/tours/pfadfinderinstitut_sm.jpg"
 price: ab 32 €
 duration: 3 Stunden
 weight: 10  
