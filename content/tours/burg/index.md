@@ -1,8 +1,8 @@
 ---
 title: "Könige, Kaiser, Präsidenten: Prager Burg und Veits-Dom"
 date: 2026-02-18
-web_image: "/img/tours/burg_sm.jpg"
-whatsapp_image: "/img/tours/burg_sm.jpg"
+web_image: "img/tours/burg_sm.jpg"
+whatsapp_image: "img/tours/burg_sm.jpg"
 summary: Bei dieser Tour erkunden wir das gigantische Burgareal, von den Ursprüngen der böhmischen Staatlichkeit über das Kaiserreich und die Habsburger Monarchie bis zum EU-Beitritt. Wir betreten auch den Veits-Dom, den alten Königspalast sowie das Goldene Gässchen.
 price: ab 48 €
 Weight: 20
