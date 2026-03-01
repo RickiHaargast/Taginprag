@@ -5,7 +5,7 @@ title = 'Tag in Prag. Stadtführungen'
 theme = 'beautifulhugo'
 enableRobotsTXT = true
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 
 [sitemap]
   changefreq = "weekly"
