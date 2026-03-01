@@ -3,7 +3,7 @@ title: "Der Orloj - was soll's?'"
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
 summary: "Die astronomische Uhr am alten Rathaus. Muss man gesehen haben. Aber warum eigentlich?"
-web_image: "/img/blog/orloj.jpg"
+web_image: "img/blog/orloj.jpg"
 weight: 70
 ---
 

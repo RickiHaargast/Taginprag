@@ -1,8 +1,8 @@
 ---
 title: "Historisch-politische Tour"
 date: 2026-02-18
-web_image: "/img/tours/historisch.jpg"
-whatsapp_image: "/img/tours/historisch.jpg"
+web_image: "img/tours/historisch.jpg"
+whatsapp_image: "img/tours/historisch.jpg"
 summary: Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom 30jährigen Krieg bis zur Samtenen Revolution.
 price: ab 32 €
 Weight: 20

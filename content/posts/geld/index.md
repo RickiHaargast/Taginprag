@@ -3,7 +3,7 @@ title: "Geld und bezahlen in Prag"
 tags: ["reise-tipps"]
 date: 2026-02-19
 summary: "Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights."
-web_image: "/img/blog/geld.jpg"
+web_image: "img/blog/geld.jpg"
 weight: 60
 ---
 

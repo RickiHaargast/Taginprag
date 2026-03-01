@@ -1,7 +1,7 @@
 ---
 title: "Chlebíčky - gehaltvolle Häppchen"
 tags: ["kulinarisches"]
-web_image: "/img/blog/chlebicky.jpg"
+web_image: "img/blog/chlebicky.jpg"
 date: 2026-02-19
 summary: "Sie sind ein unverzichtbarer Bestandteil der tschechischen Festkultur – Chlebíčky, wörtlich „kleine Brote“. "
 weight: 60
