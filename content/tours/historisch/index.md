@@ -14,7 +14,7 @@ Kommen Sie mit auf einen Spaziergang durch die Prager Altstadt, über den Fluss 
 
 Erfahren Sie mehr über die Rolle Prags in der neueren europäischen Geschichte. Von der Gründung der Tschechoslowakei, den zweiten Weltkrieg, den Februar-Putsch und die Zeit des Sozialismus, bis hin zur Samtenen Revolution und Tschechiens heutiger Rolle in der EU.
 
-![Der Wenzelsplatz war Oft Schauplatz gesellschaftlicher Umbrüche       ](/img/tours/wenzelsplatz.jpeg)
+![Der Wenzelsplatz war Oft Schauplatz gesellschaftlicher Umbrüche       ](img/tours/wenzelsplatz.jpeg)
 
 **Details:**
 * **Treffpunkt:** Platz der Republik

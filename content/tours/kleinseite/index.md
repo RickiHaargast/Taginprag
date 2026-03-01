@@ -16,7 +16,7 @@ Von der Kleinseite aus geht es über die neue Schlosstreppe hoch zur Prager Burg
 
 Abschließend machen wir einen Abstecher zur deutschen Botschaft, die im Jahr 1989 im Zentrum großer Umbrüche stand.
 
-![Blick auf die Kleinseite von der Prager Burg aus](/img/tours/kleinseite.jpg)
+![Blick auf die Kleinseite von der Prager Burg aus](img/tours/kleinseite.jpg)
 
 **Details:**
 * **Treffpunkt:** Kreuzherrenplatz (vor der Karlsbrücke, altstädter Flussseite)

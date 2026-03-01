@@ -3,7 +3,7 @@ title: "Meine 3 Lieblings-Cafés abseits der Massen"
 tags: ["kulinarisches"]
 date: 2026-02-19
 summary: "Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights."
-web_image: "/img/blog/cafes-prag.jpg"
+web_image: "img/blog/cafes-prag.jpg"
 weight: 50
 ---
 

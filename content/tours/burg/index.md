@@ -13,7 +13,7 @@ Erleben Sie das gigantische Burgareal und die Geschichte der gotischen Kathedral
 
 Kommen Sie mit auf den Hradschin-Hügel und besuchen Sie mit mir die Prager Burg. Erfahren Sie, wie hier die Geschichte Prags, Böhmens und der Tschechen ihren Anfang nahm, und bestaunen Sie die Innenbereiche des Veits-Doms und des Königspalasts.
 
-![Blick auf den Eingang zur Burg](/img/tours/burg_sm.jpg)
+![Blick auf den Eingang zur Burg](img/tours/burg_sm.jpg)
 
 **Details:**
 * **Treffpunkt:** Metro-Station Malostranská
