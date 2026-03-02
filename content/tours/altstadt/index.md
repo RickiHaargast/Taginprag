@@ -13,7 +13,7 @@ weight: 10
 ### Prag der drei Kulturen: Altstadt und Neustadt
 Sehen Sie die schönsten Monumente des Stadtzentrums. Wir besuchen den Wenzelsplatz mit seinen versteckten Passagen, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 
-![Blick in die Palatsche des Pfadfinderinstituts](img/tours/pfadfinderinstitut_sm.jpg)
+![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
 Wir lernen anhand der Prager Neustadt die enorme Entwicklung der Stadt unter Karl IV. kennen, sehen Schnittpunkte des Lebens der tschechischen und deutschsprachigen Bevölkerung und besuchen Orte, an denen Berühmtheiten wie **Franz Kafka**, **Albert Einstein** oder **Rainer Maria Rilke** gelebt haben.
 
