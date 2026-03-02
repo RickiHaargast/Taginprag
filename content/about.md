@@ -21,7 +21,7 @@ Vergessen Sie trockene Jahreszahlen und Massenabfertigung. Mein Ziel ist es, das
 * **Abseits der Pfade:** Natürlich zeige ich Ihnen die Burg und die Karlsbrücke – aber ich führe Sie auch in die versteckten Passagen und Hinterhöfe, die in keinem Reiseführer stehen.
 * **Persönlich & Entspannt:** Wir gehen in Ihrem Tempo. Zeit für ein schönes Foto, eine spannende Anekdote oder einen echten tschechischen Kaffee ist immer.
 
-![Florian in Prag](img/florian-prag.jpg)
+![Florian in Prag](/img/florian-prag.jpg)
 *„Ich möchte, dass Sie Prag mit dem Gefühl verlassen, die Stadt wirklich kennengelernt zu haben.“*
 
 ---
