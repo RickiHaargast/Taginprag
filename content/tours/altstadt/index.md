@@ -10,20 +10,29 @@ duration: 3 Stunden
 weight: 10  
 ---
 
-### Prag der drei Kulturen: Altstadt und Neustadt
-Sehen Sie die schönsten Monumente des Stadtzentrums. Wir besuchen den Wenzelsplatz mit seinen versteckten Passagen, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
+# Prag der drei Kulturen: Altstadt & Neustadt
+
+**Ein gemütlicher Streifzug durch das Herz der Stadt – von den Prachtbauten der Neustadt bis zu den mittelalterlichen Gassen des Altstädter Rings.**
+
+Begleiten Sie mich auf einem entspannten Spaziergang durch die bewegte Geschichte Prags. Wir schlagen die Brücke zwischen den drei Kulturen – der tschechischen, deutschen und jüdischen –, die diese Stadt so einzigartig gemacht haben. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen den Wenzelsplatz mit seinen versteckten Passagen, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 
 ![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
-Wir lernen anhand der Prager Neustadt die enorme Entwicklung der Stadt unter Karl IV. kennen, sehen Schnittpunkte des Lebens der tschechischen und deutschsprachigen Bevölkerung und besuchen Orte, an denen Berühmtheiten wie **Franz Kafka**, **Albert Einstein** oder **Rainer Maria Rilke** gelebt haben.
+### Was Sie erwartet
+* **Visionäre Neustadt:** Wir erfahren, wie Karl IV. schon im 14. Jahrhundert das moderne Prag plante und warum der Wenzelsplatz weit mehr als nur ein Boulevard ist.
+* **Versteckte Winkel:** Wir entdecken die typischen Prager Passagen und Hinterhöfe, die dem normalen Besucher oft verborgen bleiben.
+* **Zentrum der Geschichte:** Der Weg führt uns zum Altstädter Ring mit der weltberühmten astronomischen Rathausuhr – dem unbestrittenen Höhepunkt jedes Prag-Besuchs.
+* **Kultur & Literatur:** Wir begegnen den Spuren deutschsprachiger Dichter und Denker und ordnen die großen historischen Eckpunkte Prags in entspannter Atmosphäre ein.
 
 ---
 
 ### Wichtige Informationen
-* **Treffpunkt:** Platz der Republik, am Pulverturm
-* **Termin:** Nach Vereinbarung
-* **Dauer:** 3 Stunden
-* **Preis:** 32 Euro p. P. (Kinder bis 11 Jahre gratis)
+* **Dauer:** ca. 3 Stunden (gemütliches Tempo).
+* **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm.
+* **Ende:** Altstädter Ring (Staroměstské náměstí).
+* **Preis:** 32 € pro Person (Kinder bis 11 Jahre kostenfrei).
+* **Termin:** Ganz individuell nach Vereinbarung (keine Mindestteilnehmerzahl).
+* **FAQ:** Näheres zu Organisation und Ablauf meienr Touren finden Sie in meinen [FAQ](/Taginprag/faq).
 
 Hier treffen wir uns
 <iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>
@@ -35,7 +44,7 @@ Hier ist ein kleiner Einblick in unsere Tour:
 {{< gallery images="img/altstadt1.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/altstadt7.jpg,img/karlsbrücke1.jpg,img/karlsbrücke2.jpg" >}}
 
 ### Jetzt Tour anfragen
-Möchtest du diese Tour buchen oder hast du Fragen? Schreib mir direkt:
+*Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 
 <a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
 
