@@ -13,17 +13,17 @@ Hier finden Sie Antworten auf die wichtigsten Fragen rund um meine Stadtführung
 
 **Gibt es eine Mindestteilnehmerzahl?** Nein. Da ich keine festen Sammeltermine anbiete, sondern individuell nach Vereinbarung führe, begleite ich Sie auch gerne als Einzelperson oder Paar.
 
-**Wie und wann wird bezahlt?** Die Bezahlung erfolgt üblicherweise in bar direkt vor Ort nach der Tour. Sie können bequem in Euro (€) oder in Tschechischen Kronen (CZK) bezahlen.
+**Wie und wann wird bezahlt?** Die Bezahlung erfolgt üblicherweise bei Buchung der Tour. Ich schicke Ihnen eine Rechnung (PayPal oder Überweisung), die innerhalb von 48 Stunden bezahlt werden muss. Die Preise sind in EUR, Barzahlung vor Ort und Zahlung in CZK nach Absprache.
 
 **Was passiert bei schlechtem Wetter?** Prag ist bei jedem Wetter sehenswert. Sollte es regnen, passen wir die Route spontan an und nutzen die vielen prachtvollen Passagen und Arkaden der Stadt als Schutz.
 
 ### Während der Tour
 
-**Wie anstrengend sind die Touren?** Wir gehen in einem gemütlichen Tempo. Die Altstadt-Tour dauert etwa 3 Stunden und beinhaltet regelmäßige Stopps an den Sehenswürdigkeiten. Planen Sie bitte bequemes Schuhwerk ein, da das historische Kopfsteinpflaster für die Füße fordernd sein kann.
+**Wie anstrengend sind die Touren?** Wir gehen in einem gemütlichen Tempo. Meine Touren dauern zwischen 2 und 3 Stunden und beinhalten regelmäßige Stopps an den Sehenswürdigkeiten. Planen Sie bitte bequemes Schuhwerk ein, da das historische Kopfsteinpflaster für die Füße fordernd sein kann. Dies gilt insbesondere für den Spaziergang zur Prager Burg.
 
-**Sind die Wege barrierefrei?** Die Prager Altstadt ist leider stellenweise sehr uneben. Wenn Sie mit einer Gehbehinderung oder einem Rollstuhl reisen, geben Sie mir bitte vorher Bescheid – ich plane die Route dann so barrierearm wie möglich.
+**Sind die Wege barrierefrei?** Die Prager Altstadt ist stellenweise sehr uneben. Wenn Sie mit einer Gehbehinderung oder einem Rollstuhl reisen, geben Sie mir bitte vorher Bescheid – ich plane die Route dann so barrierearm wie möglich.
 
-**Wo genau treffen wir uns?** Der Standard-Treffpunkt ist der **Platz der Republik (Náměstí Republiky)** direkt am Pulverturm. Auf Wunsch und nach Absprache kann ich Sie aber auch gerne an Ihrem Hotel im Stadtzentrum abholen.
+**Wo genau treffen wir uns?** Der Treffpunkt ist je nach Tour der **Platz der Republik (Náměstí Republiky)** direkt am Pulverturm (Altstadt), der XXX. Auf Wunsch und nach Absprache kann ich Sie aber auch gerne an Ihrem Hotel im Stadtzentrum abholen.
 
 ### Organisatorisches
 
