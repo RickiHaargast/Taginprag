@@ -15,13 +15,14 @@ weight: 10
 **Ein gemütlicher Streifzug durch das Herz der Stadt – von den Prachtbauten der Neustadt bis zu den mittelalterlichen Gassen des Altstädter Rings.**
 
 Begleiten Sie mich auf einem entspannten Spaziergang durch die bewegte Geschichte Prags. Wir schlagen die Brücke zwischen den drei Kulturen – der tschechischen, deutschen und jüdischen –, die diese Stadt so einzigartig gemacht haben. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen den Wenzelsplatz mit seinen versteckten Passagen, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
+Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
 
 ![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
 ### Was Sie erwartet
 * **Visionäre Neustadt:** Wir erfahren, wie Karl IV. schon im 14. Jahrhundert das moderne Prag plante und warum der Wenzelsplatz weit mehr als nur ein Boulevard ist.
 * **Versteckte Winkel:** Wir entdecken die typischen Prager Passagen und Hinterhöfe, die dem normalen Besucher oft verborgen bleiben.
-* **Zentrum der Geschichte:** Der Weg führt uns zum Altstädter Ring mit der weltberühmten astronomischen Rathausuhr – dem unbestrittenen Höhepunkt jedes Prag-Besuchs.
+* **Zentrum der Geschichte:** Der Weg führt uns zum Altstädter Ring mit der weltberühmten astronomischen Rathausuhr – einem unbestrittenen Höhepunkt jedes Prag-Besuchs.
 * **Kultur & Literatur:** Wir begegnen den Spuren deutschsprachiger Dichter und Denker und ordnen die großen historischen Eckpunkte Prags in entspannter Atmosphäre ein.
 
 ---
