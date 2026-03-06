@@ -7,7 +7,7 @@ whatsapp_image: "img/tours/wenzelsplatz.jpg"
 web_image: "img/tours/wenzelsplatz.jpg"
 price: ab 32 €
 duration: 3 Stunden
-weight: 10  
+weight: 15  
 ---
 
 # Die Neustadt – Prag auf dem Weg zur Weltmetropole
