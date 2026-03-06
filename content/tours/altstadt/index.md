@@ -10,19 +10,21 @@ duration: 3 Stunden
 weight: 10  
 ---
 
-# Prag der drei Kulturen: Altstadt & Neustadt
+# Geheimnisse der Prager Altstadt
 
 **Ein gemütlicher Streifzug durch das Herz der Stadt – von den Prachtbauten der Neustadt bis zu den mittelalterlichen Gassen des Altstädter Rings.**
+**Vom Pulverturm zur Karlsbrücke: Ein Streifzug durch die Jahrhunderte.**
 
-Begleiten Sie mich auf einem entspannten Spaziergang durch die bewegte Geschichte Prags. Wir schlagen die Brücke zwischen den drei Kulturen – der tschechischen, deutschen und jüdischen –, die diese Stadt so einzigartig gemacht haben. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen den Wenzelsplatz mit seinen versteckten Passagen, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
+Erleben Sie Prag dort, wo sein Herz am lautesten schlägt. Auf diesem Rundgang entdecken wir die klassischen Wahrzeichen der Altstadt, blicken aber auch hinter die prächtigen Fassaden. Wir folgen den Spuren von Kafka und Einstein und tauchen in die spezielle Prager Architektur ein, wo sich verschiedenste Stile wie Gotik, Barock und Kubismus auf engstem Raum begegnen. Von den jüdischen Traditionen bis zu den dunklen Kapiteln der Weltkriege – diese Tour bietet den perfekten Überblick über das historische Schicksal Böhmens. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen versteckte Passagen und Innenhöfe, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
 
 ![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
 ### Was Sie erwartet
-* **Visionäre Neustadt:** Wir erfahren, wie Karl IV. schon im 14. Jahrhundert das moderne Prag plante und warum der Wenzelsplatz weit mehr als nur ein Boulevard ist.
-* **Versteckte Winkel:** Wir entdecken die typischen Prager Passagen und Hinterhöfe, die dem normalen Besucher oft verborgen bleiben.
-* **Zentrum der Geschichte:** Der Weg führt uns zum Altstädter Ring mit der weltberühmten astronomischen Rathausuhr – einem unbestrittenen Höhepunkt jedes Prag-Besuchs.
+* **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
+* **Jüdisches Viertel:** Ein Einblick in das ehemalige Ghetto und die bewegte Geschichte der Prager Juden.
+* **Abseits der Massen:** Wir verlassen die ausgetretenen Pfade, um die typischen Prager Innenhöfe und Passagen zu erkunden, die vielen Besuchern verborgen bleiben.
+* **Architektonische Vielfalt:** Ein Spaziergang durch die Kunstgeschichte – von altehrwürdiger Gotik bis zu Prags einzigartigen kubistischen Bauten.
 * **Kultur & Literatur:** Wir begegnen den Spuren deutschsprachiger Dichter und Denker und ordnen die großen historischen Eckpunkte Prags in entspannter Atmosphäre ein.
 
 ---

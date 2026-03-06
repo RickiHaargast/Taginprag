@@ -2,8 +2,8 @@
 title: "Buchungsbedingungen"
 type: "page"
 ---
-### Allgemeine Geschäftsbedingungen
-# Allgemeines
+# Allgemeine Geschäftsbedingungen
+### Allgemeines
 
 ### 1 Anbieter und Geltungsbereich: 
 
@@ -66,8 +66,11 @@ Eine Stornierung muss in schriftlicher Form erfolgen (E-Mail, WhatsApp-Nachricht
 Es gilt die folgende Stornierungsstaffel:
 
 Bis zu 3 Werktage vor Leistungsbeginn: kostenfrei
+
 Ab 2 Werktagen vor Leistungsbeginn: erstattet werden 50 % des Gesamtpreises
+
 Stornierung am Leistungstag: erstattet werden 30 % des Gesamtpreises
+
 Der bereits bezahlte Preis bzw. der entsprechende Anteil wird innerhalb von zwei Wochen über dieselbe Zahlungsverbindung erstattet, die bei der Zahlung verwendet wurde (PayPal > PayPal, Rechnung > Banküberweisung). 
 
 Sollten unvorhergesehene Ereignisse außerhalb des Einflussbereichs des Anbieters am Tag der Führung die Durchführung unzumutbar erschweren oder unmöglich machen, wird der Anbieter den Kunden kontaktieren und versuchen, eine einvernehmliche Lösung bzw. Alternative zu finden. Wenn eine Einigung (z.B. auf einen anderen Termin oder eine alternative Route) nicht möglich ist, haben sowohl der Kunde als auch der Anbieter das Recht, den Vertrag aufzuheben. In diesem Fall erhebt der Anbieter eine Bearbeitungsgebühr von 10% und erstattet dem Kunden den Restbetrag abzüglich eventuell anfallender Stornierungsgebühren für gebuchte Zusatzleistungen innerhalb von zwei Wochen zurück.
