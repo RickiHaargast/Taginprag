@@ -3,8 +3,8 @@ title: "Offener Spaziergang durch die Altstadt"
 description: "Entdecken Sie die Prager Altstadt bei meiner offenen Führung. Jeden Freitag um 11:00 Uhr."
 date: 2026-02-18
 summary: Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.
-whatsapp_image: "img/tours/altstadt3.jpg"
-web_image: "img/tours/altstadt3.jpg"
+whatsapp_image: "img/tours/offen_sm.jpg"
+web_image: "img/tours/offen_sm.jpg"
 price: ab 18 €
 duration: 2 Stunden
 weight: 10  
@@ -16,7 +16,7 @@ Kommen Sie mit auf einen gemütlichen Spaziergang ins mittelalterliche Herz Prag
 Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
 Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie [hier](/Taginprag/tours/altstadt)
 
-![Die Teynkirche auf dem Altstädter Ring](/Taginprag/img/tours/praha3.jpg)
+![Die Teynkirche auf dem Altstädter Ring](/Taginprag/img/tours/offen.jpg)
 
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
