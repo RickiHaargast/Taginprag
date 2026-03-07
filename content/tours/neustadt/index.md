@@ -10,11 +10,9 @@ duration: 3 Stunden
 weight: 15  
 ---
 
-# Die Neustadt – Prag auf dem Weg zur Weltmetropole
-
 **Visionäre Planung, Jugendstil-Pracht und der Geist des Umbruchs.**
 
-Die Prager Neustadt ist weit mehr als nur ein modernes Stadtzentrum – sie ist das Monument eines Weltherrschers. Wir erkunden die visionäre Stadtplanung Karls IV. aus dem 14. Jahrhundert und verfolgen den Aufstieg Prags zur europäischen Metropole. In den prächtigen Kaffeehäusern der K&K-Zeit atmen wir den Geist des tschechischen Nationalbewusstseins und besuchen die Schauplätze der politischen Umbrüche, die das 20. Jahrhundert und den Fall des Eisernen Vorhangs prägten.
+Die Prager Neustadt ist weit mehr als nur ein modernes Stadtzentrum – sie ist das Monument eines Weltherrschers. Wir erkunden die visionäre Stadtplanung Karls IV. aus dem 14. Jahrhundert und verfolgen den Aufstieg Prags zur europäischen Metropole. Vor den prächtigen Kaffeehäusern der K&K-Zeit atmen wir den Geist des erwachenden tschechischen Nationalbewusstseins und besuchen die Schauplätze der politischen Umbrüche, die das 20. Jahrhundert und den Fall des Eisernen Vorhangs prägten.
 
 ![Das Denkmal des hl. Wenzels mit dem Nationalmuseum](/Taginprag/img/tours/wenzelsplatz.jpg)
 
@@ -46,6 +44,6 @@ Hier ist ein kleiner Einblick in unsere Tour:
 ### Jetzt Tour anfragen
 *Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 
-<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
+<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Neustadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
 
-<a href="mailto:deine-mail@beispiel.de?subject=Anfrage: Altstadt-Tour" class="btn-contact btn-mail">Per E-Mail anfragen</a>
+<a href="mailto:info@taginprag.de?subject=Anfrage: Neustadt-Tour" class="btn-contact btn-mail">Per E-Mail anfragen</a>

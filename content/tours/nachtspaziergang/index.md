@@ -5,7 +5,7 @@ web_image: "img/tours/nacht_sm.jpg"
 whatsapp_image: "img/tours/nacht_sm.jpg"
 summary: Spaziergang durch das nächtliche Prag – lerne eine völlig neue Seite der Stadt kennen, sehe die neugotischen Türme 
 price: ab 32 €
-Weight: 50
+Weight: 55
 ---
 
 ### Prag bei Nacht

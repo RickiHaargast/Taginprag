@@ -5,7 +5,7 @@ web_image: "img/tours/historisch.jpg"
 whatsapp_image: "img/tours/historisch.jpg"
 summary: Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom 30jährigen Krieg bis zur Samtenen Revolution.
 price: ab 32 €
-Weight: 20
+Weight: 25
 ---
 
 ### Prag im Strom der modernen Geschichte

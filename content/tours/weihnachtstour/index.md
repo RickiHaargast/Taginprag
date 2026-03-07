@@ -1,10 +1,10 @@
 ---
-title: "Geheimnisse der Prager Altstadt"
-description: "Entdecken Sie die Prager Altstadt bei einer persönlichen Führung. Geschichte, Legenden und die besten Cafés abseits der Touristenpfade."
-date: 2026-02-18
+title: "Weihnachtszeit in Prag"
+description: "Entdecken Sie Prag in der Vorweihnachtszeit."
+date: 2026-12-01
 summary: Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.
-whatsapp_image: "img/tours/pfadfinderinstitut_sm.jpg"
-web_image: "img/tours/pfadfinderinstitut_sm.jpg"
+whatsapp_image: "img/tours/weihnachten_sm.jpg"
+web_image: "img/tours/weihnachten_sm.jpg"
 price: ab 32 €
 duration: 3 Stunden
 weight: 10  
@@ -15,7 +15,7 @@ weight: 10
 Erleben Sie Prag dort, wo sein Herz am lautesten schlägt. Auf diesem Rundgang entdecken wir die klassischen Wahrzeichen der Altstadt, blicken aber auch hinter die prächtigen Fassaden. Wir folgen den Spuren von Kafka und Einstein und tauchen in die spezielle Prager Architektur ein, wo sich verschiedenste Stile wie Gotik, Barock und Kubismus auf engstem Raum begegnen. Von den jüdischen Traditionen bis zu den dunklen Kapiteln der Weltkriege – diese Tour bietet den perfekten Überblick über das historische Schicksal Böhmens. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen versteckte Passagen und Innenhöfe, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
 
-![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
+![Blick auf die Karlsbrücke vom verschneiten Moldauufer](/Taginprag/img/tours/weihnachten.jpg)
 
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
