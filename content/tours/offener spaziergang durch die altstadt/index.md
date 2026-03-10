@@ -18,6 +18,9 @@ Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie 
 
 ![Die Teynkirche auf dem Altstädter Ring](/Taginprag/img/tours/offen.jpg)
 
+***Offene Tour***
+Diese Tour findet wöchentlich zu einem festen Termin statt. In kleiner Runde (maximal 15 Personen) durchstreifen wir die Altstadt. Wenn Sie mitkommen möchten, schreiben Sie mir bitte mindestens 2 Stunden vor Beginn, ansonsten kann eine Mitnahme nicht garantiert werden.
+
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
 * **Jüdisches Viertel:** Ein Einblick in das ehemalige Ghetto und die bewegte Geschichte der Prager Juden.
@@ -29,10 +32,10 @@ Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie 
 
 ### Wichtige Informationen
 * **Dauer:** ca. 3 Stunden (gemütliches Tempo).
-* **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm.
+* **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm. Ich trage eine Schildmütze mit dem Logo meiner Website
 * **Ende:** Altstädter Ring (Staroměstské náměstí).
 * **Preis:** 18 € pro Person (Kinder bis 11 Jahre kostenfrei).
-* **Termin:** Jeden Freitag um 11:00 Uhr.
+* **Termin:** Jeden Samstag um 14:00 Uhr.
 * **FAQ:** Näheres zu Organisation und Ablauf meienr Touren finden Sie in meinen [FAQ](/Taginprag/faq).
 
 Hier treffen wir uns
