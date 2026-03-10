@@ -2,7 +2,7 @@
 title: "Die Neustadt: Prag auf dem Weg zur Weltmetropole."   
 description: "Entdecken Sie die Prager Altstadt bei einer persönlichen Führung. Geschichte, Legenden und die besten Cafés abseits der Touristenpfade."
 date: 2026-02-18
-summary: Bei dieser Tour erkunden wir die Prager Neustadt, vom Wenzelsplatz zum Nationaltheater. Schmelztiegel dreier Kulturen - hier begegneten sich jüdische, tschechische und deutsche Lebensarten.
+summary: Bei dieser Tour erkunden wir die Prager Neustadt, vom Wenzelsplatz zum Nationaltheater. Schmelztiegel dreier Kulturen - hier begegneten sich jüdische, tschechische und deutsche Lebensarten. Wir sehen Relikte spätmittelalterlicher Monumente, ebenso wie archtitektonische Perlen aus der K&K-Zeit.
 whatsapp_image: "img/tours/wenzelsplatz.jpg"
 web_image: "img/tours/wenzelsplatz.jpg"
 price: ab 32 €
