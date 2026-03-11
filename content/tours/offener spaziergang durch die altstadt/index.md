@@ -19,7 +19,7 @@ Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie 
 ![Die Teynkirche auf dem Altstädter Ring](/Taginprag/img/tours/offen.jpg)
 
 ***Offene Tour***
-Diese Tour findet wöchentlich zu einem festen Termin statt. In kleiner Runde (maximal 15 Personen) durchstreifen wir die Altstadt. Wenn Sie mitkommen möchten, schreiben Sie mir bitte mindestens 2 Stunden vor Beginn, ansonsten kann eine Mitnahme nicht garantiert werden.
+Diese Tour findet wöchentlich zu einem festen Termin statt - am Samstag um 14:00 Uhr. In kleiner Runde (maximal 15 Personen) durchstreifen wir die Altstadt. Wenn Sie mitkommen möchten, [schreiben Sie mir](#anfrage) bitte mindestens 2 Stunden vor Beginn, ansonsten kann eine Mitnahme nicht garantiert werden.
 
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
@@ -36,7 +36,7 @@ Diese Tour findet wöchentlich zu einem festen Termin statt. In kleiner Runde (m
 * **Ende:** Altstädter Ring (Staroměstské náměstí).
 * **Preis:** 18 € pro Person (Kinder bis 11 Jahre kostenfrei).
 * **Termin:** Jeden Samstag um 14:00 Uhr.
-* **FAQ:** Näheres zu Organisation und Ablauf meienr Touren finden Sie in meinen [FAQ](/Taginprag/faq).
+* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq).
 
 Hier treffen wir uns
 <iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>
@@ -47,6 +47,7 @@ Hier ist ein kleiner Einblick in unsere Tour:
 
 {{< gallery images="img/altstadt1.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/altstadt7.jpg,img/karlsbrücke1.jpg,img/karlsbrücke2.jpg" >}}
 
+<div id="anfrage"></div>
 ### Jetzt Tour anfragen
 *Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 

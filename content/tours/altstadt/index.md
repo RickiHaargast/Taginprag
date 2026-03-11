@@ -17,6 +17,9 @@ Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach
 
 ![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
+***Individuelle Tour***
+Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreiben mir einfach mit 
+
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
 * **Jüdisches Viertel:** Ein Einblick in das ehemalige Ghetto und die bewegte Geschichte der Prager Juden.
@@ -32,7 +35,7 @@ Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach
 * **Ende:** Altstädter Ring (Staroměstské náměstí).
 * **Preis:** 32 € pro Person (Kinder bis 11 Jahre kostenfrei).
 * **Termin:** Ganz individuell nach Vereinbarung (keine Mindestteilnehmerzahl).
-* **FAQ:** Näheres zu Organisation und Ablauf meienr Touren finden Sie in meinen [FAQ](/Taginprag/faq).
+* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq).
 
 Hier treffen wir uns
 <iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>
