@@ -18,7 +18,7 @@ Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach
 ![Blick in die Palatsche des Pfadfinderinstituts](/Taginprag/img/tours/pfadfinderinstitut_sm.jpg)
 
 ***Individuelle Tour***
-Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreiben mir einfach mit 
+Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreiben mir einfach per [WhatsApp oder E-Mail](#anfrage), und wir vereinbaren einen Zeitpunkt.
 
 ### Was Sie erwartet
 * **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
@@ -30,12 +30,12 @@ Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreibe
 ---
 
 ### Wichtige Informationen
-* **Dauer:** ca. 3 Stunden (gemütliches Tempo).
-* **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm.
-* **Ende:** Altstädter Ring (Staroměstské náměstí).
-* **Preis:** 32 € pro Person (Kinder bis 11 Jahre kostenfrei).
-* **Termin:** Ganz individuell nach Vereinbarung (keine Mindestteilnehmerzahl).
-* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq).
+* **Dauer:** ca. 3 Stunden (gemütliches Tempo)
+* **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm.  Ich trage eine Schildmütze mit dem Logo meiner Website
+* **Ende:** Kreuzherrenplatz an der Karlsbrücke
+* **Preis:** 32 € pro Person (Kinder bis 11 Jahre kostenfrei)
+* **Termin:** Ganz individuell nach Vereinbarung (keine Mindestteilnehmerzahl)
+* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq)
 
 Hier treffen wir uns
 <iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>

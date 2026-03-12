@@ -16,7 +16,7 @@ weight: 5
 
 Kommen Sie mit auf einen gemütlichen Spaziergang ins mittelalterliche Herz Prags. Auf diesem Rundgang entdecken wir in kleiner Runde die klassischen Wahrzeichen der Altstadt, blicken aber auch hinter die prächtigen Fassaden. Wir folgen den Spuren von Kafka und Einstein und tauchen in die spezielle Prager Architektur ein, wo sich verschiedenste Stile wie Gotik, Barock und Kubismus auf engstem Raum begegnen. Von den jüdischen Traditionen bis zu den dunklen Kapiteln der Weltkriege – diese Tour bietet den perfekten Überblick über das historische Schicksal Böhmens. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen versteckte Passagen und Innenhöfe, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
-Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie [hier](/Taginprag/tours/altstadt)
+Möchten Sie einen individuellen Termin oder eine private Führung? [Hier](/Taginprag/tours/altstadt) geht es zu meiner privaten Altstadt-Führung.
 
 ![Die Teynkirche auf dem Altstädter Ring](/Taginprag/img/tours/offen.jpg)
 
@@ -33,12 +33,12 @@ Diese Tour findet wöchentlich zu einem festen Termin statt - am Samstag um 14:0
 ---
 
 ### Wichtige Informationen
-* **Dauer:** ca. 3 Stunden (gemütliches Tempo).
+* **Dauer:** ca. 3 Stunden (gemütliches Tempo)
 * **Treffpunkt:** Platz der Republik (Náměstí Republiky) am Pulverturm. Ich trage eine Schildmütze mit dem Logo meiner Website
-* **Ende:** Altstädter Ring (Staroměstské náměstí).
-* **Preis:** 18 € pro Person (Kinder bis 11 Jahre kostenfrei).
-* **Termin:** Jeden Samstag um 14:00 Uhr.
-* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq).
+* **Ende:** Kreuzherrenplatz an der Karlsbrücke
+* **Preis:** 18 € pro Person (Kinder bis 11 Jahre kostenfrei)
+* **Termin:** Jeden Samstag um 14:00 Uhr
+* **FAQ:** Näheres zu Organisation und Ablauf meiner Touren finden Sie in meinen [FAQ](/Taginprag/faq)
 
 Hier treffen wir uns
 <iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>

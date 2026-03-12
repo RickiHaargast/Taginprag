@@ -19,7 +19,7 @@ Hier finden Sie Antworten auf die wichtigsten Fragen rund um meine Stadtführung
 
 ### Während der Tour
 
-**Welche Sprachen werden angeboten?** Alle meine Stadtführungen finden auf Deutsch statt. Deutsch ist meine Muttersprache und ich möchte authentisch vermitteln. Führungen auf Englisch und Tschechisch sind auf Anfrage möglich.
+**Welche Sprachen werden angeboten?** Alle meine Stadtführungen finden auf Deutsch 🇩🇪 statt. Das ist meine Muttersprache und ich möchte authentisch vermitteln. Führungen auf Englisch 🇬🇧 und Tschechisch 🇨🇿 sind auf Anfrage möglich.
 
 **Wie anstrengend sind die Touren?** Wir gehen in einem gemütlichen Tempo. Meine Touren dauern zwischen 2 und 3 Stunden und beinhalten regelmäßige Stopps an den Sehenswürdigkeiten. Planen Sie bitte bequemes Schuhwerk ein, da das historische Kopfsteinpflaster für die Füße fordernd sein kann. Dies gilt insbesondere für den Spaziergang zur Prager Burg.
 
