@@ -46,6 +46,8 @@ Hier ist ein kleiner Einblick in unsere Tour:
 
 {{< gallery images="img/altstadt1.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/altstadt7.jpg,img/karlsbrücke1.jpg,img/karlsbrücke2.jpg" >}}
 
+<div id="anfrage"></div>
+
 ### Jetzt Tour anfragen
 *Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 

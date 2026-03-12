@@ -47,7 +47,7 @@ Hier treffen wir uns
 
 Hier ist ein kleiner Einblick in unsere Tour:
 
-{{< gallery images="img/altstadt1.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/altstadt7.jpg,img/karlsbrücke1.jpg,img/karlsbrücke2.jpg" >}}
+{{< gallery images="img/orloj2_sm.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/teyn_sm.jpg,img/jüdisches_viertel_sm2.jpg,img/mariensäule_sm.jpg" >}}
 
 <div id="anfrage"></div>
 
