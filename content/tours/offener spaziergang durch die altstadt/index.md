@@ -12,6 +12,8 @@ weight: 5
 
 **Vom Pulverturm zur Karlsbrücke: Ein Streifzug durch die Jahrhunderte.**
 
+**Offene Einsteigertour jeden Samstag um 14:00** [hier](#anfrage) unverbindlich anmelden
+
 Kommen Sie mit auf einen gemütlichen Spaziergang ins mittelalterliche Herz Prags. Auf diesem Rundgang entdecken wir in kleiner Runde die klassischen Wahrzeichen der Altstadt, blicken aber auch hinter die prächtigen Fassaden. Wir folgen den Spuren von Kafka und Einstein und tauchen in die spezielle Prager Architektur ein, wo sich verschiedenste Stile wie Gotik, Barock und Kubismus auf engstem Raum begegnen. Von den jüdischen Traditionen bis zu den dunklen Kapiteln der Weltkriege – diese Tour bietet den perfekten Überblick über das historische Schicksal Böhmens. Ohne Zeitdruck erkunden wir die Orte, an denen berühmte Persönlichkeiten wie Franz Kafka oder Albert Einstein ihren Alltag verbrachten. Wir besuchen versteckte Passagen und Innenhöfe, den Altstädter Ring mit der astronomischen Rathausuhr und viele weitere Sehenswürdigkeiten. 
 Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach und gehen auch auf aktuelle Stadtplanerische Fragen ein. 
 Möchten Sie einen individuellen Termin oder eine private Führung. Klicken Sie [hier](/Taginprag/tours/altstadt)
@@ -48,7 +50,8 @@ Hier ist ein kleiner Einblick in unsere Tour:
 {{< gallery images="img/altstadt1.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/altstadt7.jpg,img/karlsbrücke1.jpg,img/karlsbrücke2.jpg" >}}
 
 <div id="anfrage"></div>
-### Jetzt Tour anfragen
+
+### Jetzt Tour anfragen 
 *Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 
 <a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
