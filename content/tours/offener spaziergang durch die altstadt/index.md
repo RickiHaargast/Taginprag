@@ -47,13 +47,13 @@ Hier treffen wir uns
 
 Hier ist ein kleiner Einblick in unsere Tour:
 
-{{< gallery images="img/orloj2_sm.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/teyn_sm.jpg,img/jüdisches_viertel_sm2.jpg,img/mariensäule_sm.jpg" >}}
+{{< gallery images="img/orloj2_sm.jpg,img/altstadt2.jpg,img/altstadt3.jpg,img/altstadt4.jpg,img/altstadt5.jpg,img/altstadt6.jpg,img/teyn_sm.jpg,img/jüdisches_viertel_sm.jpg,img/mariensäule_sm.jpg" >}}
 
 <div id="anfrage"></div>
 
 ### Jetzt Tour anfragen 
 *Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
 
-<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
+<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20offene%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
 
 <a href="mailto:info@taginprag.de?subject=Anfrage: Altstadt-Tour" class="btn-contact btn-mail">Per E-Mail anfragen</a>
