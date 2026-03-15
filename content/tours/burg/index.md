@@ -49,8 +49,8 @@ Hier ist ein kleiner Einblick in unsere Tour:
 
 <div id="anfrage"></div>
 
-### Jetzt Tour anfragen
-*Möchten Sie Prag abseits der großen Touristenströme verstehen? Senden Sie mir eine unverbindliche Anfrage.*
+### Jetzt Burg-Tour anfragen
+*Möchten Sie die beste Aussicht über Prag genießen und die Geschichte der Burg hautnah erleben? Senden Sie mir eine unverbindliche Anfrage für Ihren Wunschtermin.*
 
 <a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Burg-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
 
