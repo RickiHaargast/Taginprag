@@ -21,10 +21,11 @@ Auf unserem Weg ziehen wir die Entwicklung der Stadt über die Jahrhunderte nach
 Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreiben mir einfach per [WhatsApp oder E-Mail](#anfrage), und wir vereinbaren einen Zeitpunkt.
 
 ### Was Sie erwartet
-* **Zeitgeschichte zum Anfassen:** Wir ordnen die Schlagworte 1918, 1948, 1968 und 1989 in ihren historischen Kontext ein.
-* **Auf den Spuren Havels:** Erfahren Sie mehr über den Dissidenten, der vom Gefängnis direkt in die Burg zog.
-* **Architektur des Umbruchs:** Wir sehen, wie sich die politische Ideologie im Stadtbild verewigt hat.
-* **Gemütlicher Ausklang:** Die Tour endet auf der malerischen Kleinseite, ideal für eine anschließende Kaffeepause.
+* **Die großen Wahrzeichen:** Wir besuchen den Altstädter Ring mit der astronomischen Uhr und beenden die Tour an der geschichtsträchtigen Karlsbrücke.
+* **Jüdisches Viertel:** Ein Einblick in das ehemalige Ghetto und die bewegte Geschichte der Prager Juden.
+* **Abseits der Massen:** Wir verlassen die ausgetretenen Pfade, um die typischen Prager Innenhöfe und Passagen zu erkunden, die vielen Besuchern verborgen bleiben.
+* **Architektonische Vielfalt:** Ein Spaziergang durch die Kunstgeschichte – von altehrwürdiger Gotik bis zu Prags einzigartigen kubistischen Bauten.
+* **Kultur & Literatur:** Wir begegnen den Spuren deutschsprachiger Dichter und Denker und ordnen die großen historischen Eckpunkte Prags in entspannter Atmosphäre ein.
 
 ---
 

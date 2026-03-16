@@ -9,17 +9,18 @@ Weight: 25
 ---
 
 **Sehen Sie Orte, an denen Geschichte geschrieben wurde**
-Kommen Sie mit auf einen Spaziergang durch die Prager Altstadt, über den Fluss zur Kleinseite und zurück. 
+Begleiten Sie mich auf eine Zeitreise durch das schicksalhafte 20. Jahrhundert, in dem Prag zum Schauplatz weltbewegender Umbrüche wurde. Wir erkunden den Weg von der euphorischen Gründung der Tschechoslowakei am Platz der Republik über die dunklen Jahre der Besatzung bis hin zum mutigen Widerstand gegen das sozialistische Regime. Unser gemeinsamer Weg führt uns über die Moldau auf die geschichtsträchtige Kleinseite, wo wir an der farbenfrohen Lennon-Wall erfahren, wie die Prager Jugend mit Liedern und Graffiti gegen das sozialistische Regime protestierte. Gemeinsam spüren wir der Frage nach, wie aus dem Schatten von zwei Weltkriegen und dem Prager Frühling die vitale, demokratische Metropole von heute entstehen konnte.
 
-Erfahren Sie mehr über die Rolle Prags in der neueren europäischen Geschichte. Von der Gründung der Tschechoslowakei, den zweiten Weltkrieg, den Februar-Putsch und die Zeit des Sozialismus, bis hin zur Samtenen Revolution und Tschechiens heutiger Rolle in der EU.
-
-![Der Wenzelsplatz war oft Schauplatz gesellschaftlicher Umbrüche](img/tours/wenzelsplatz.jpeg)
+![Der Wenzelsplatz war oft Schauplatz gesellschaftlicher Umbrüche](/Taginprag/img/tours/wenzelsplatz.jpg)
 
 ***Individuelle Tour***
 Diese Tour hat keinen festen Termin und kann privat gebucht werden. Sie schreiben mir einfach per [WhatsApp oder E-Mail](#anfrage), und wir vereinbaren einen Zeitpunkt.
 
 ### Was Sie erwartet
-
+* **Zeitgeschichte zum Anfassen:** Wir ordnen die Schlagworte 1918, 1948, 1968 und 1989 in ihren historischen Kontext ein.
+* **Auf den Spuren Havels:** Erfahren Sie mehr über den Dissidenten, der vom Gefängnis direkt in die Burg zog.
+* **Architektur des Umbruchs:** Wir sehen, wie sich die politische Ideologie im Stadtbild verewigt hat.
+* **Gemütlicher Ausklang:** Die Tour endet auf der malerischen Kleinseite, ideal für eine anschließende Kaffeepause.
 
 ---
 
@@ -38,7 +39,7 @@ Hier treffen wir uns
 
 Hier ist ein kleiner Einblick in unsere Tour:
 
-{{< gallery images="img/altstadt1.jpg,img/polit1.jpg,img/polit2.jpg,img/polit3.jpg,img/kleinseite4.jpg,img/kleinseite3.jpg,img" >}}
+{{< gallery images="img/altstadt1.jpg,img/polit1.jpg,img/polit2.jpg,img/polit3.jpg,img/kleinseite4.jpg,img/kleinseite3.jpg" >}}
 
 <div id="anfrage"></div>
 

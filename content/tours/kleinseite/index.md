@@ -1,6 +1,6 @@
 ---
 title: "Romantische Gassen der Kleinseite und Prager Burg"
-draft: true
+draft: false
 date: 2026-02-18
 # bigimg: [{src: "/img/praha4.jpg"}]
 web_image: "img/tours/kleinseite_sm.jpg"
@@ -10,14 +10,14 @@ price: ab 32 €
 Weight: 40
 ---
 
-### Romantische Gassen der Kleinseite
+**Das Prager Venedig**
 Kommen Sie mit auf einen Spaziergang durch die Gassen des Kleinseite-Viertels. Unterhalb der Burg gelegen war dies einerseits ein Viertel reicher Menschen, die hier prunkvolle Palais errichteten. Andererseits spielten sich genau hier die „Kleinseitener Geschichten“ des Schriftstellers Jan Neruda ab, der sein Ohr immer an der Sprache der kleinen Leuten hatte.
 
-Von der Kleinseite aus geht es über die neue Schlosstreppe hoch zur Prager Burg, wo wir die Außenbereiche besichtigen und einen atemberaubenden Blick auf Prag genießen.
+Wir starten in der Altstadt, direkt an der Karlsbrücke, die wir auch gleich überqueren. Auf der anderen Flussseite heißen uns enge Gassen, niedliche kleine Häuser, aber auch repräsentative Paläste willkommen. Im weitläufigen Kampa-Park legen wir eine Verschnaufpause ein und sehen uns mit der John-Lennon-Mauer ein Stück zivilen Widerstands an.
 
-Abschließend machen wir einen Abstecher zur deutschen Botschaft, die im Jahr 1989 im Zentrum großer Umbrüche stand.
+![Blick auf die Kleinseite von der Prager Burg aus](/Taginprag/img/tours/kleinseite.jpg)
 
-![Blick auf die Kleinseite von der Prager Burg aus](img/tours/kleinseite.jpg)
+
 
 **Details:**
 * **Treffpunkt:** Kreuzherrenplatz (vor der Karlsbrücke, altstädter Flussseite)
@@ -25,3 +25,21 @@ Abschließend machen wir einen Abstecher zur deutschen Botschaft, die im Jahr 19
 * **Dauer:** 4 Stunden
 * **Preis:** 32 Euro p. P.
 * **Kinder:** bis 11 Jahre gratis
+
+Hier treffen wir uns
+<iframe style="border:none" src="https://mapy.com/s/dupebabumu" width="500" height="333" frameborder="0"></iframe>
+
+---
+
+Hier ist ein kleiner Einblick in unsere Tour:
+
+{{< gallery images="img/altstadt1.jpg,img/polit1.jpg,img/polit2.jpg,img/polit3.jpg,img/kleinseite4.jpg,img/kleinseite3.jpg" >}}
+
+<div id="anfrage"></div>
+
+### Jetzt Tour anfragen
+*Möchten Sie verstehen, wie Prag zu der modernen Metropole wurde, die es heute ist? Senden Sie mir eine unverbindliche Anfrage für diese Zeitreise durch das 20. Jahrhundert.*
+
+<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
+
+<a href="mailto:info@taginprag.de?subject=Anfrage: Altstadt-Tour" class="btn-contact btn-mail">Per E-Mail anfragen</a>
