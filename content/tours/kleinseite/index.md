@@ -34,7 +34,7 @@ Wir starten in der Altstadt, direkt an der Karlsbrücke, die wir auch gleich üb
 * **Kinder:** bis 11 Jahre gratis
 
 Hier treffen wir uns
-<iframe style="border:none" src="https://mapy.com/s/dogokujabe" width="500" height="333" frameborder="0"></iframe>
+<iframe style="border:none" src="https://mapy.com/s/refebuvula" width="500" height="333" frameborder="0"></iframe>
 
 ---
 
