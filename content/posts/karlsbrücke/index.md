@@ -1,8 +1,9 @@
 ---
 title: "Die Karlsbrücke - was soll's?'"
 draft: false
-tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
+description: "Test-Description für die Karlsbrücke. Muss man gesehen haben"
+tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 summary: "Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt."
 web_image: "img/blog/karluv-most1.jpg"
 weight: 60
