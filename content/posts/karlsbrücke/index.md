@@ -4,7 +4,7 @@ draft: false
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
 summary: "Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt."
-web_image: "img/blog/orloj.jpg"
+web_image: "img/blog/karluv-most1.jpg"
 weight: 60
 ---
 
@@ -17,7 +17,7 @@ Wie viele mittelalterliche Brücken in Europa ist auch die Karlsbrücke mit eine
 
 An beiden Enden wird die Brücke von Brückentürmen abgeschlossen – dem Altstädter und dem Kleinseitner Brückenturm. Beide können bestiegen werden und bieten eine schöne Aussicht.
 
-![Blick auf die Brücke von der Kleinseite aus](/Taginprag/img/blog/karluv-most.jpg)
+![Blick auf die Brücke von der Kleinseite aus](/Taginprag/img/blog/karluv-most1.jpg)
 
 ---
 **Abschluss**
