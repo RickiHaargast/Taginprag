@@ -7,7 +7,7 @@ whatsapp_image: "img/tours/wenzelsplatz.jpg"
 web_image: "img/tours/wenzelsplatz.jpg"
 price: ab 32 €
 duration: 3 Stunden
-weight: 15  
+weight: 40
 ---
 
 **Visionäre Planung, Jugendstil-Pracht und der Geist des Umbruchs.**

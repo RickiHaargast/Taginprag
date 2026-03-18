@@ -7,7 +7,7 @@ whatsapp_image: "img/tours/pfadfinderinstitut_sm.jpg"
 web_image: "img/tours/pfadfinderinstitut_sm.jpg"
 price: ab 32 €
 duration: 3 Stunden
-weight: 10  
+weight: 20
 ---
 
 **Vom Pulverturm zur Karlsbrücke: Ein Streifzug durch die Jahrhunderte.**

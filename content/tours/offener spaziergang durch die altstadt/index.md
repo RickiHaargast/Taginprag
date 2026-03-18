@@ -7,7 +7,7 @@ whatsapp_image: "img/tours/offen_sm.jpg"
 web_image: "img/tours/offen_sm.jpg"
 price: ab 18 €
 duration: 2 Stunden
-weight: 5
+weight: 10
 ---
 
 **Vom Pulverturm zur Karlsbrücke: Ein Streifzug durch die Jahrhunderte.**

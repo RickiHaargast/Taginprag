@@ -7,7 +7,7 @@ whatsapp_image: "img/tours/burg_sm.jpg"
 summary: Bei dieser Tour erkunden wir das gigantische Burgareal, von den Ursprüngen der böhmischen Staatlichkeit über das Kaiserreich und die Habsburger Monarchie bis zum EU-Beitritt. Wir betreten auch den Veits-Dom, den alten Königspalast sowie das Goldene Gässchen.
 price: ab 48 €
 duration: 3 Stunden
-Weight: 20
+Weight: 30
 ---
 
 **Erleben Sie das gigantische Burgareal und die Geschichte der gotischen Kathedrale.**

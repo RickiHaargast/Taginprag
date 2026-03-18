@@ -5,7 +5,7 @@ web_image: "img/tours/historisch.jpg"
 whatsapp_image: "img/tours/historisch.jpg"
 summary: Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom Ersten Weltkrieg bis zur Samtenen Revolution.
 price: ab 32 €
-Weight: 25
+Weight: 66
 ---
 
 **Sehen Sie Orte, an denen Geschichte geschrieben wurde**

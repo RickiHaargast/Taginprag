@@ -4,7 +4,7 @@ tags: ["kulinarisches"]
 date: 2026-02-19
 summary: "Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights."
 web_image: "img/blog/cafes-prag.jpg"
-weight: 50
+weight: 60
 ---
 
 Prag ist berühmt für seine Kaffeehauskultur. Doch statt der überlaufenen Touristen-Cafés in der ersten Reihe zeige ich dir heute drei Orte, an denen auch ich gerne meine Pause verbreite.

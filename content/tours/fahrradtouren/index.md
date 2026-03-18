@@ -6,7 +6,7 @@ web_image: "/img/tours/fahrrad.jpg"
 whatsapp_image: "/img/tours/fahrrad.jpg"
 summary: Fahrradtouren – erkunde Prag auf zwei Rädern
 price: ab 50 €
-Weight: 45
+Weight: 65
 ---
 
 **Lernen Sie Prag mit neuen Augen kennen - auf zwei Rädern!** 

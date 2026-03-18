@@ -7,7 +7,7 @@ web_image: "img/tours/kleinseite_sm.jpg"
 whatsapp_image: "img/tours/kleinseite_wa.jpg"
 summary: Spaziergang durch die malerische Kleinseite – vorbei an prunkvollen Palais und auf den Spuren von Jan Neruda. Über die neue Schlosstreppe zur Prager Burg mit traumhaftem Blick über Prag. Zum Abschluss ein Abstecher zur Deutsche Botschaft und ihre bewegende Geschichte von 1989.
 price: ab 32 €
-Weight: 40
+Weight: 60
 ---
 
 **Das Prager Venedig**
