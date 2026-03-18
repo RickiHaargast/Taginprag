@@ -23,12 +23,6 @@ weight: 60
 *Warum das für Ihren Prag-Besuch wichtig ist*
 Hier erklärst du kurz das "Problem" und deine "Lösung". (z.B. "Wer mit Kindern in der Altstadt unterwegs ist, weiß: Spielplätze sind Mangelware. Aber es gibt sie...")
 
-{{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/Taginprag/img/orient.jpg" caption="Haus zur schwarzen Muttergottes" >}}
-  {{< figure thumb="-thumb" link="/Taginprag/img/neustadt8.jpg" caption="das berühmte Tesla-Mosaik" >}}
-  {{< figure thumb="-thumb" link="/Taginprag/img/trznice.jpg" caption="eine Passage" alt="This is a long comment about a triangle" >}}
-{{< /gallery >}}
-
 ### Details & Standorte
 Hier nutzt du am besten eine Liste oder kurze Absätze.
 
