@@ -23,7 +23,7 @@ custom_css = ["css/custom.css"]
 show_image_in_post = true
 # Erlaubt dem Theme, Bilder besser zu verarbeiten
 image_relative = false
-paginate = 7  # Zeigt insgesamt nur 5 Elemente (z.B. 3 Touren + 2 Posts)
+paginate = 6  # Zeigt insgesamt nur 5 Elemente (z.B. 3 Touren + 2 Posts)
   social_icons = true
   instagram = "https://instagram.com/deinname"
   facebook = "https://facebook.com/deinname"
