@@ -71,3 +71,4 @@ paginate = 6  # Zeigt insgesamt nur 5 Elemente (z.B. 3 Touren + 2 Posts)
 [taxonomies]
   tag = "tags"
   category = "categories"
+  series = "series"
