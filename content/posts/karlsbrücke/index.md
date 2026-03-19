@@ -4,7 +4,7 @@ draft: false
 date: 2026-02-19
 description: "Warum ist die Karlsbrücke so berühmt? Entdecken Sie Mythen, Teufelspakte und die 30 Statuen. Inklusive Insider-Tipps für den besten Besuch ohne Touristenmassen."
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
-summary: "Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt."
+summary: "Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt. Aber warum eigentlich?"
 web_image: "img/blog/karluv-most2.jpg"
 weight: 60
 ---
@@ -25,7 +25,7 @@ Wie fast jedes mittelalterliche Bauwerk ist auch die Karlsbrücke von Legenden u
 ## Die steinernen Zeugen: Die Statuengalerie
 Das eigentliche Freilichtmuseum der Brücke sind die 30 Statuen und Statuengruppen, die die Geländer säumen. Sie wurden erst im Barock (ab ca. 1700) hinzugefügt und machen die Brücke zu einer Art „Via Crucis“ unter freiem Himmel.
 
-{{< gallery images="img/posts/karluv-most2.jpg,img/posts/karluv-most3.jpg,img/posts/karluv-most4.jpg,img/posts/karluv-most5.jpg" >}}
+{{< gallery images="img/blog/karluv-most2.jpg,img/blog/karluv-most3.jpg,img/blog/karluv-most4.jpg,img/blog/karluv-most5.jpg" >}}
 
 Zwei Statuen, auf die Sie besonders achten sollten:
 
@@ -38,7 +38,7 @@ Der **Heilige Johannes von Nepomuk**: Die wohl berühmteste Figur. Wer den Socke
 ---
 
 ## Abschluss & Aussicht
-An beiden Enden thronen die **mächtigen Brückentürme**. Mein Tipp: Besteige den Altstädter oder den Kleinseitner Brückenturm. Von oben hast du einen einzigartigen Blick auf das Ensemble aus Prager Burg und den Türmen der Altstadt.
+An beiden Enden thronen die **mächtigen Brückentürme**. Mein Tipp: Besteigen Sie den Altstädter oder den Kleinseitner Brückenturm. Von oben haben Sie einen einzigartigen Blick auf das Ensemble der Prager Burg und die Türme der Altstadt.
 
 Den schönsten Eindruck der Karlsbrücke bekommst du übrigens in den **frühen Morgenstunden bei Sonnenaufgang**. Dann ist die Brücke fast menschenleer und entfaltet ihren ganz eigenen Zauber. Aber auch zu anderen Tageszeiten ist die Brücke sehenswert. Von ihr aus hat man einen einzigartigen Blick auf die Prager Altstadt und vor allem auf das Ensemble aus Prager Burg und Kleinseite.
 
