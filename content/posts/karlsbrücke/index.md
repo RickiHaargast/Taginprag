@@ -26,15 +26,15 @@ Wie fast jedes mittelalterliche Bauwerk ist auch die Karlsbrücke von Legenden u
 ## Die steinernen Zeugen: Die Statuengalerie
 Das eigentliche Freilichtmuseum der Brücke sind die 30 Statuen und Statuengruppen, die die Geländer säumen. Sie wurden erst im Barock (ab ca. 1700) hinzugefügt und machen die Brücke zu einer Art „Via Crucis“ unter freiem Himmel.
 
-{{< gallery images="img/blog/karluv-most2.jpg,img/blog/karluv-most3.jpg,img/blog/karluv-most4.jpg:Hl. Nepomuk,img/blog/karluv-most5.jpg" >}}
+{{< gallery images="img/blog/karluv-most2.jpg,img/blog/karluv-most3.jpg,img/blog/karluv-most4.jpg,img/blog/karluv-most5.jpg" >}}
 
 Markdown-Galerie:
 <div class="gallery-container">
 
-![Hl. Johannes von Nepomuk](/img/blog/karluv-most2.jpg)
+![Hl. Johannes von Nepomuk](/Taginprag/img/blog/karluv-most2.jpg)
 *Der Glücksbringer: Wer das Relief berührt, kehrt sicher nach Prag zurück.*
 
-![Die Kreuzigungsgruppe](/img/blog/karluv-most3.jpg)
+![Die Kreuzigungsgruppe](/Taginprag/img/blog/karluv-most3.jpg)
 *Einzigartig: Das Kruzifix mit der goldenen hebräischen Inschrift.*
 
 </div>

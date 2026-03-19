@@ -16,13 +16,13 @@ Viele fragen sich danach: „**Was soll’s? Warum stehen hier alle?**“
 
 <div class="gallery-container">
 
-![Das Zifferblatt](/img/blog/orloj4.jpg)
+![Das Zifferblatt](/Taginprag/img/blog/orloj4.jpg)
 *Ein mittelalterlicher Computer: Hier lesen Sie Sonnenstand, Mondphase und drei verschiedene Zeitzonen gleichzeitig ab.*
 
-![Der Tod schlägt die Glocke:](/img/blog/orloj2.jpg)
+![Der Tod schlägt die Glocke:](/Taginprag/img/blog/orloj2.jpg)
 *Einzigartig: Das Kruzifix mit der goldenen hebräischen Inschrift.*
 
-![Das Kalendarium:](/img/blog/orloj4.jpg)
+![Das Kalendarium:](/Taginprag/img/blog/orloj4.jpg)
 *„Die untere Scheibe zeigt die 12 Sternzeichen und ländliche Szenen aus den Monaten – ein Meisterwerk von Josef Mánes.“*
 
 </div>
