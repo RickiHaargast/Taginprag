@@ -13,7 +13,7 @@ Tschechien ist bekanntlich kein Mitglied der Eurozone und verwendet die tschechi
 
 Die kurze Antwort: Ja, in vielen Restaurants und Supermärkten ist das möglich, aber der Wechselkurs ist dort oft sehr schlecht. Aktuell ist ein Euro etwa 25 Kronen wert. Ein Restaurant rechnet aber vielleicht nur mit 20 oder 22 Kronen pro Euro – ein teures Vergnügen. Es lohnt sich also fast immer, in der Landeswährung zu zahlen.
 
-![Tschechische Banknoten und Münzen](/Taginprag/img/posts/geld.jpg)
+![Tschechische Banknoten und Münzen](/Taginprag/img/blog/geld.jpg)
 
 ## 1. Bargeld: Woher nehmen?
 Es ist verlockend, Kronen schon bei der Bank zu Hause zu bestellen. Davon rate ich jedoch ab: Die Kurse sind meist schlechter und es fallen oft Gebühren an. Vor Ort haben Sie zwei bessere Optionen:
