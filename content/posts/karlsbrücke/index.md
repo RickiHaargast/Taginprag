@@ -60,3 +60,6 @@ Den schönsten Eindruck der Karlsbrücke bekommst du übrigens in den **frühen 
 Möchten Sie die Geschichten hinter den Statuen hören und wissen, wo man den besten Fotospot ohne hunderte andere Touristen findet? Auf meiner Tour „**Romantische Gassen der Kleinseite**“ überqueren wir die Brücke gemeinsam und tauchen danach tief in das malerischste Viertel Prags und die Außenbereiche der Prager Burg ein.
 
 [Jetzt Termin für die Kleinseite-Tour anfragen](/tours/kleinseite)
+
+### Mehr aus der Reihe "Was soll's?"
+{{< series_list >}}
