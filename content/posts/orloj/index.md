@@ -1,4 +1,4 @@
-    ---
+---
 title: "Die Prager Rathausuhr - was soll's?'"
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
