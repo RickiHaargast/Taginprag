@@ -2,7 +2,6 @@
 title: "Die Prager Rathausuhr - was soll's?'"
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
-series: ["Was soll's?"]
 description: "Ist die Astronomische Uhr in Prag überbewertet? Erfahren Sie, warum das 45-Sekunden-Spektakel Weltruhm genießt und was die Uhr wirklich anzeigt."
 summary: "Die astronomische Uhr am altstädter Rathaus. Muss man gesehen haben. Aber warum eigentlich?"
 web_image: "img/blog/orloj2_sm.jpg"
@@ -16,11 +15,11 @@ Viele fragen sich danach: „**Was soll’s? Warum stehen hier alle?**“
 
 <div class="gallery-container">
 
-![Das Zifferblatt](/Taginprag/img/blog/orloj4.jpg)
+![Das Zifferblatt](/Taginprag/img/blog/orloj2.jpg)
 *Ein mittelalterlicher Computer: Hier lesen Sie Sonnenstand, Mondphase und drei verschiedene Zeitzonen gleichzeitig ab.*
 
-![Der Tod schlägt die Glocke:](/Taginprag/img/blog/orloj2.jpg)
-*Einzigartig: Das Kruzifix mit der goldenen hebräischen Inschrift.*
+![Der Tod schlägt die Glocke:](/Taginprag/img/blog/orloj5.jpg)
+*In den beiden Türen über dem Ziffernblatt erscheinen zur vollen Stunde die Apostel.*
 
 ![Das Kalendarium:](/Taginprag/img/blog/orloj4.jpg)
 *„Die untere Scheibe zeigt die 12 Sternzeichen und ländliche Szenen aus den Monaten – ein Meisterwerk von Josef Mánes.“*
@@ -53,7 +52,3 @@ Das Spektakel zur vollen Stunde ist nett, aber die wahre Magie der Uhr sieht man
 Die astronomische Uhr ist nur der Anfang. Bei meiner „Altstadt & Jüdisches Viertel“-Tour erzähle ich Ihnen, was die Symbole an der Uhr bedeuten und wo Sie in der Nähe den besten Kaffee finden, während die anderen noch in der Schlange stehen.
 
 [Hier geht es zur Tour-Anfrage – Geheimnisse der Prager Altstadt](/tours/altstadt)
-
----
-### Mehr aus der Reihe "Was soll's?"
-{{< series_list >}}
