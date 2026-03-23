@@ -1,6 +1,6 @@
 ---
 title: "Prag bei Nacht"
-description: Erleben Sie das goldene Prag bei Nacht: Ein privater Abendspaziergang vom Wenzelsplatz über das Moldauufer bis zur Karlsbrücke. Entspannt, magisch und ohne die Massen.
+description: "Erleben Sie das goldene Prag bei Nacht: Ein privater Abendspaziergang vom Wenzelsplatz über das Moldauufer bis zur Karlsbrücke. Entspannt, magisch und ohne die Massen."
 date: 2026-02-18
 web_image: "img/tours/nacht_sm.jpg"
 whatsapp_image: "img/tours/nacht_sm.jpg"
