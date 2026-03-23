@@ -9,20 +9,18 @@ web_image: "img/blog/karluv-most2.jpg"
 weight: 60
 ---
 
-# Die Karlsbrücke - Nur eine alte Brücke?
+Die Karlsbrücke verbindet die Prager Altstadt mit der Kleinseite. Sie ist die älteste erhaltene Brücke Prags und der Touristenmagnet schlechthin. Die Moldau überspannen in Prag 14 Brücken – gesehen haben muss man nur diese. Aber warum eigentlich?
 
-Die Karlsbrücke verbindet die Prager Altstadt mit der Kleinseite. Sie ist die älteste erhaltene Brücke Prags und der Touristenmagnet schlechthin. Aber warum eigentlich?
+## Warum ist sie eine Sehenswürdigkeit?
 
-**Warum ist sie eine Sehenswürdigkeit?**
-
-Bevor die von unter Karl IV. in Auftrag gegebene Karlsbrücke im Jahr 1402 fertiggestellt wurde, fielen ihre Vorgängerinnen regelmäßig den Hochwassern zum Opfer. Diese monumentale Steinbrücke jedoch hielt seitdem allem stand – sogar dem verheerenden Jahrhunderthochwasser von 2002.
+Bevor die von unter Karl IV. in Auftrag gegebene Karlsbrücke im Jahr 1402 fertiggestellt wurde, fielen ihre Vorgängerinnen den Hochwassern zum Opfer. Für Leben und Handel in der Stadt war dies ein herber Rückschlag, so auch beim Verlust der Judithbrücke. Die neue monumentale Steinbrücke – bis zum Jahr 1841 die einzige Moldaubrücke in Prag – hielt seitdem allem stand – sogar dem verheerenden Jahrhunderthochwasser von 2002.
 
 Was viele nicht wissen: Heute ist sie eine reine Fußgängerzone, aber das war nicht immer so. Von 1883 bis 1908 ratterte hier die Straßenbahn über das Pflaster, und bis 1965 durften sogar Busse und PKW die Brücke überqueren. Kaum vorstellbar, wenn man heute die Massen an Künstlern, Händlern und Schaustellern sieht!
 
 <div class="gallery-container">
 
 ![Heiligenstatuen auf der Karlsbrücke](/Taginprag/img/blog/karluv-most2.jpg)
-*Die ikonischen Heiligenstatuen hielten erst ab dem 17. Jahrhundert auf der Brücke Einzug.*
+*Die ikonischen Heiligenstatuen hielten erst ab dem 16. Jahrhundert auf der Brücke Einzug.*
 
 </div>
 
@@ -34,7 +32,7 @@ Das eigentliche Freilichtmuseum der Brücke sind die 30 Statuen und Statuengrupp
 
 <div class="gallery-container">
 
-![Hl. Johannes von Nepomuk](/Taginprag/img/blog/karluv-most4.jpg)
+![Hl. Johannes Nepomuk](/Taginprag/img/blog/karluv-most4.jpg)
 *Der Glücksbringer: Wer das Relief berührt, kehrt sicher nach Prag zurück.*
 
 ![Die Kreuzigungsgruppe](/Taginprag/img/blog/karluv-most3.jpg)

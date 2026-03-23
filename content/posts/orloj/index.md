@@ -1,5 +1,5 @@
 ---
-title: "Die Prager Rathausuhr - was soll's?'"
+title: "Die Prager Rathausuhr – was soll's?'"
 tags: ["sehenswuerdigkeiten", "familienfreundlich"]
 date: 2026-02-19
 description: "Ist die Astronomische Uhr in Prag überbewertet? Erfahren Sie, warum das 45-Sekunden-Spektakel Weltruhm genießt und was die Uhr wirklich anzeigt."
@@ -8,7 +8,7 @@ web_image: "img/blog/orloj2_sm.jpg"
 weight: 70
 ---
 
-# Die Astronomische Uhr: 45 Sekunden Spektakel? – Die Reihe „Was soll's?“
+# Lohnt sich das Warten für 45 Sekunden Spektakel?
 Jede volle Stunde versammeln sich hunderte Menschen mit gezückten Handys vor dem Rathausturm am Altstädter Ring. Sie starren gebannt nach oben, um den „Gang der Apostel“ zu sehen. Nach weniger als einer Minute ist der Spuk vorbei, das Skelett läutet die Glocke, der Hahn kräht – und die Menge löst sich auf.
 
 Viele fragen sich danach: „**Was soll’s? Warum stehen hier alle?**“
