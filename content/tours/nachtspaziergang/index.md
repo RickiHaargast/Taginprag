@@ -43,6 +43,6 @@ Hier ist ein kleiner Einblick in unsere Tour:
 ### Jetzt Tour anfragen
 *Möchten Sie das magische Leuchten Prags selbst erleben? Begleiten Sie mich auf diesem unvergesslichen Abendspaziergang. Wir meiden die überfüllten Gassen und konzentrieren uns auf die schönsten Fotomotive und die Geschichten, die man nur in der Stille der Nacht richtig hört.*
 
-<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20den%20Nachtspaziergang" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
+[Jetzt unverbindlich anfragen](/contact/?tour=nacht)
 
-<a href="mailto:info@taginprag.de?subject=Anfrage: Nachtsparziergang" class="btn-contact btn-mail">Per E-Mail anfragen</a>
+<a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20den%20Nachtspaziergang" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
