@@ -11,7 +11,7 @@ Haben Sie Fragen zu meinen Touren oder möchten Sie ein individuelles Angebot f�
 
 Füllen Sie einfach das folgende Formular aus. Ich antworte Ihnen in der Regel innerhalb von 24 Stunden.
 
-<form action="https://deine-mailygo-instanz.de/send" method="POST" class="contact-form">
+<form action="https://formspree.io/f/xbdplwoq" method="POST" class="contact-form">
     <input type="text" name="_honeypot" style="display:none !important" tabindex="-1" autocomplete="off">
 
     <div class="form-group">
