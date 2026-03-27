@@ -53,4 +53,4 @@ Hier ist ein kleiner Einblick in unsere Tour:
 
 <a href="https://wa.me/+4915254389034?text=Hallo!%20Ich%20interessiere%20mich%20für%20die%20Altstadt-Tour" class="btn-contact btn-whatsapp">Per WhatsApp anfragen</a>
 
-<a href="mailto:info@taginprag.de?subject=Anfrage: Altstadt-Tour" class="btn-contact btn-mail">Per E-Mail anfragen</a>
+[Zu meinem Kontaktformular](/contact/)

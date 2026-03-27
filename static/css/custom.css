@@ -188,7 +188,52 @@ footer .fa-stack-2x, footer .list-inline li i { color: #edd88f !important; }
     border-radius: 4px 4px 0 0;
 }
 
-
+.contact-form {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    margin: 20px 0;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #2d3e50;
+}
+.form-group input, .form-group select, .form-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-family: inherit;
+}
+.form-checkbox {
+    margin-bottom: 20px;
+    font-size: 0.9em;
+    display: flex;
+    align-items: flex-start;
+}
+.form-checkbox input {
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.btn-submit {
+    background-color: #2d3e50;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.btn-submit:hover {
+    background-color: #c0392b; /* Ein schönes Ziegelrot als Akzent beim Hover */
+}
 
 /* ==========================================================================
    4. MOBILE OPTIMIERUNG (ZURÜCK ZUM ORIGINAL-LOOK)
