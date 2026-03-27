@@ -9,18 +9,18 @@
     <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Taginprag/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Geheimnisse der Altstadt</title>
+      <title>Offener Spaziergang durch die Altstadt</title>
+      <link>http://localhost:1313/Taginprag/tours/offener-spaziergang-durch-die-altstadt/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/offener-spaziergang-durch-die-altstadt/</guid>
+      <description>Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.</description>
+    </item>
+    <item>
+      <title>Geheimnisse der Prager Altstadt</title>
       <link>http://localhost:1313/Taginprag/tours/altstadt/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/tours/altstadt/</guid>
       <description>Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.</description>
-    </item>
-    <item>
-      <title>Historisch-politische Tour</title>
-      <link>http://localhost:1313/Taginprag/tours/historisch/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/historisch/</guid>
-      <description>Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom 30jährigen Krieg bis zur Samtenen Revolution.</description>
     </item>
     <item>
       <title>Könige, Kaiser, Präsidenten: Prager Burg und Veits-Dom</title>
@@ -30,11 +30,18 @@
       <description>Bei dieser Tour erkunden wir das gigantische Burgareal, von den Ursprüngen der böhmischen Staatlichkeit über das Kaiserreich und die Habsburger Monarchie bis zum EU-Beitritt. Wir betreten auch den Veits-Dom, den alten Königspalast sowie das Goldene Gässchen.</description>
     </item>
     <item>
-      <title>Romantische Gassen der Kleinseite und Prager Burg</title>
-      <link>http://localhost:1313/Taginprag/tours/kleinseite/</link>
+      <title>Die Neustadt: Prag auf dem Weg zur Weltmetropole.</title>
+      <link>http://localhost:1313/Taginprag/tours/neustadt/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/kleinseite/</guid>
-      <description>Spaziergang durch die malerische Kleinseite – vorbei an prunkvollen Palais und auf den Spuren von Jan Neruda. Über die neue Schlosstreppe zur Prager Burg mit traumhaftem Blick über Prag. Zum Abschluss ein Abstecher zur Deutsche Botschaft und ihre bewegende Geschichte von 1989.</description>
+      <guid>http://localhost:1313/Taginprag/tours/neustadt/</guid>
+      <description>Bei dieser Tour erkunden wir die Prager Neustadt, vom Wenzelsplatz zum Nationaltheater. Schmelztiegel dreier Kulturen - hier begegneten sich jüdische, tschechische und deutsche Lebensarten. Wir sehen Relikte spätmittelalterlicher Monumente, ebenso wie archtitektonische Perlen aus der K&amp;amp;K-Zeit.</description>
+    </item>
+    <item>
+      <title>Geld und bezahlen in Prag</title>
+      <link>http://localhost:1313/Taginprag/posts/geld/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/posts/geld/</guid>
+      <description>Hier finden Sie alles rund um&amp;rsquo;s Thema Bezahlen in Ihrem Prag-Aufenthalt. Vom Geldwechsel über Bankautomaten und Trinkgeld.</description>
     </item>
     <item>
       <title>Meine 3 Lieblings-Cafés abseits der Massen</title>
@@ -44,20 +51,6 @@
       <description>Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights.</description>
     </item>
     <item>
-      <title>Fahrradtouren</title>
-      <link>http://localhost:1313/Taginprag/tours/fahrradtouren/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/fahrradtouren/</guid>
-      <description>Fahrradtouren – erkunde Prag auf zwei Rädern</description>
-    </item>
-    <item>
-      <title>Prag bei Nacht</title>
-      <link>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</guid>
-      <description>Spaziergang durch das nächtliche Prag – lerne eine völlig neue Seite der Stadt kennen, sehe die neugotischen Türme</description>
-    </item>
-    <item>
       <title>Chlebíčky - gehaltvolle Häppchen</title>
       <link>http://localhost:1313/Taginprag/posts/chlebicky/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
@@ -65,18 +58,46 @@
       <description>Sie sind ein unverzichtbarer Bestandteil der tschechischen Festkultur – Chlebíčky, wörtlich „kleine Brote“.</description>
     </item>
     <item>
-      <title>Geld und bezahlen in Prag</title>
-      <link>http://localhost:1313/Taginprag/posts/geld/</link>
+      <title>Die Karlsbrücke - was soll&#39;s?&#39;</title>
+      <link>http://localhost:1313/Taginprag/posts/karlsbr%C3%BCcke/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/posts/geld/</guid>
-      <description>Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights.</description>
+      <guid>http://localhost:1313/Taginprag/posts/karlsbr%C3%BCcke/</guid>
+      <description>Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt. Aber warum eigentlich?</description>
     </item>
     <item>
-      <title>Der Orloj - was soll&#39;s?&#39;</title>
+      <title>Romantische Gassen der Kleinseite und Prager Burg</title>
+      <link>http://localhost:1313/Taginprag/tours/kleinseite/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/kleinseite/</guid>
+      <description>Spaziergang durch die malerische Kleinseite – vorbei an prunkvollen Palais und auf den Spuren von Jan Neruda. Über die neue Schlosstreppe zur Prager Burg mit traumhaftem Blick über Prag. Zum Abschluss ein Abstecher zur Deutsche Botschaft und ihre bewegende Geschichte von 1989.</description>
+    </item>
+    <item>
+      <title>Fahrradtouren</title>
+      <link>http://localhost:1313/Taginprag/tours/fahrradtouren/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/fahrradtouren/</guid>
+      <description>Fahrradtouren – erkunde Prag auf zwei Rädern</description>
+    </item>
+    <item>
+      <title>Prag im Strom der modernen Geschichte</title>
+      <link>http://localhost:1313/Taginprag/tours/historisch/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/historisch/</guid>
+      <description>Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom Ersten Weltkrieg bis zur Samtenen Revolution.</description>
+    </item>
+    <item>
+      <title>Prag bei Nacht</title>
+      <link>http://localhost:1313/Taginprag/tours/nachtspaziergang/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/nachtspaziergang/</guid>
+      <description>Spaziergang durch das nächtliche Prag – lernen Sie eine völlig neue Seite der Stadt kennen</description>
+    </item>
+    <item>
+      <title>Die Prager Rathausuhr – was soll&#39;s?&#39;</title>
       <link>http://localhost:1313/Taginprag/posts/orloj/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/posts/orloj/</guid>
-      <description>Die astronomische Uhr am alten Rathaus. Muss man gesehen haben. Aber warum eigentlich?</description>
+      <description>Die astronomische Uhr am altstädter Rathaus. Muss man gesehen haben. Aber warum eigentlich?</description>
     </item>
     <item>
       <title></title>
@@ -86,11 +107,25 @@
       <description></description>
     </item>
     <item>
+      <title>Buchungsbedingungen</title>
+      <link>http://localhost:1313/Taginprag/buchungsbedingungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/buchungsbedingungen/</guid>
+      <description>&lt;h1 id=&#34;allgemeine-geschäftsbedingungen&#34;&gt;Allgemeine Geschäftsbedingungen&lt;/h1&gt;&#xA;&lt;h3 id=&#34;allgemeines&#34;&gt;Allgemeines&lt;/h3&gt;&#xA;&lt;h3 id=&#34;1-anbieter-und-geltungsbereich&#34;&gt;1 Anbieter und Geltungsbereich:&lt;/h3&gt;&#xA;&lt;p&gt;Florian Förster&#xA;Steuernummer im tschechischen Gewerberegister: 04320093&lt;/p&gt;&#xA;&lt;p&gt;Diese AGB gelten für die Buchung öffentlicher und privater Stadtführungen, die über &lt;a href=&#34;https://www.taginprag.de&#34;&gt;www.taginprag.de&lt;/a&gt; angeboten und gebucht werden.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-vertragsabschluss&#34;&gt;2 Vertragsabschluss&lt;/h3&gt;&#xA;&lt;p&gt;Der Kunde tätigt die Reservierung entweder über die Website taginprag.de, oder per Nachricht (E-Mail an &lt;a href=&#34;mailto:info@taginprag.de&#34;&gt;info@taginprag.de&lt;/a&gt;, WhatsApp). Die Rechnungsstellung erfolgt ausschließlich auf elektronischem Weg als PDF per E-Mail an die im Bestellprozess angegebene E-Mail-Adresse. Es erfolgt kein weiterer Versand der Rechnung per Post.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Datenschutzerklärung</title>
       <link>http://localhost:1313/Taginprag/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/datenschutz/</guid>
       <description>&lt;h3 id=&#34;1-allgemeine-hinweise&#34;&gt;1. Allgemeine Hinweise&lt;/h3&gt;&#xA;&lt;p&gt;Verantwortlich für die Datenverarbeitung auf dieser Website ist:&#xA;Florian Förster, Přádova 2090/8, 182 00 Prag.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-datenerfassung-auf-dieser-website&#34;&gt;2. Datenerfassung auf dieser Website&lt;/h3&gt;&#xA;&lt;p&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/p&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.&lt;/p&gt;&#xA;&lt;p&gt;Wie erfassen wir Ihre Daten?&lt;/p&gt;&#xA;&lt;p&gt;Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Häufig gestellte Fragen</title>
+      <link>http://localhost:1313/Taginprag/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/faq/</guid>
+      <description>&lt;p&gt;Hier finden Sie Antworten auf die wichtigsten Fragen rund um meine Stadtführungen in Prag. Sollte Ihre Frage hier nicht beantwortet werden, schreiben Sie mir einfach eine Nachricht.&lt;/p&gt;&#xA;&lt;h3 id=&#34;buchung--bezahlung&#34;&gt;Buchung &amp;amp; Bezahlung&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gibt es eine Mindestteilnehmerzahl?&lt;/strong&gt; Nein. Da ich keine festen Sammeltermine anbiete, sondern individuell nach Vereinbarung führe, begleite ich Sie auch gerne als Einzelperson oder Paar.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Wie und wann wird bezahlt?&lt;/strong&gt; Die Bezahlung erfolgt üblicherweise bei Buchung der Tour. Ich schicke Ihnen eine Rechnung (PayPal oder Überweisung), die innerhalb von 48 Stunden bezahlt werden muss. Die Preise sind in EUR, Barzahlung vor Ort und Zahlung in CZK nach Absprache.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Impressum</title>

@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Taginprag/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Geld und bezahlen in Prag</title>
+      <link>http://localhost:1313/Taginprag/posts/geld/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/posts/geld/</guid>
+      <description>Hier finden Sie alles rund um&amp;rsquo;s Thema Bezahlen in Ihrem Prag-Aufenthalt. Vom Geldwechsel über Bankautomaten und Trinkgeld.</description>
+    </item>
+    <item>
       <title>Meine 3 Lieblings-Cafés abseits der Massen</title>
       <link>http://localhost:1313/Taginprag/posts/cafes-prag/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
@@ -23,18 +30,18 @@
       <description>Sie sind ein unverzichtbarer Bestandteil der tschechischen Festkultur – Chlebíčky, wörtlich „kleine Brote“.</description>
     </item>
     <item>
-      <title>Geld und bezahlen in Prag</title>
-      <link>http://localhost:1313/Taginprag/posts/geld/</link>
+      <title>Die Karlsbrücke - was soll&#39;s?&#39;</title>
+      <link>http://localhost:1313/Taginprag/posts/karlsbr%C3%BCcke/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/posts/geld/</guid>
-      <description>Wer in Prag echten tschechischen Kaffee in besonderer Atmosphäre genießen will, muss wissen, wo er sucht. Hier sind meine persönlichen Highlights.</description>
+      <guid>http://localhost:1313/Taginprag/posts/karlsbr%C3%BCcke/</guid>
+      <description>Sie ist vielleicht die wichtigste Sehenswürdigkeit der Stadt. Aber warum eigentlich?</description>
     </item>
     <item>
-      <title>Der Orloj - was soll&#39;s?&#39;</title>
+      <title>Die Prager Rathausuhr – was soll&#39;s?&#39;</title>
       <link>http://localhost:1313/Taginprag/posts/orloj/</link>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/posts/orloj/</guid>
-      <description>Die astronomische Uhr am alten Rathaus. Muss man gesehen haben. Aber warum eigentlich?</description>
+      <description>Die astronomische Uhr am altstädter Rathaus. Muss man gesehen haben. Aber warum eigentlich?</description>
     </item>
   </channel>
 </rss>

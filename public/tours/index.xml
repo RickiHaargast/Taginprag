@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/Taginprag/tours/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Geheimnisse der Altstadt</title>
+      <title>Offener Spaziergang durch die Altstadt</title>
+      <link>http://localhost:1313/Taginprag/tours/offener-spaziergang-durch-die-altstadt/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/offener-spaziergang-durch-die-altstadt/</guid>
+      <description>Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.</description>
+    </item>
+    <item>
+      <title>Geheimnisse der Prager Altstadt</title>
       <link>http://localhost:1313/Taginprag/tours/altstadt/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/tours/altstadt/</guid>
       <description>Diese Tour führt dich durch die 1000-jährige Geschichte Prags. Wir sehen die den Altstädter Ring mit der astronomischen Uhr, die erste deutsche Universität und die Karlsbrücke. Komm mit in das historische Zentrum und entdecke versteckte Passagen und die Orte, an denen Kafka und Einstein wirkten. Wir machen einen Abstecher in das jüdische Viertel, wo die Legende des Golem ihren Ursprung hat.</description>
-    </item>
-    <item>
-      <title>Historisch-politische Tour</title>
-      <link>http://localhost:1313/Taginprag/tours/historisch/</link>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/historisch/</guid>
-      <description>Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom 30jährigen Krieg bis zur Samtenen Revolution.</description>
     </item>
     <item>
       <title>Könige, Kaiser, Präsidenten: Prager Burg und Veits-Dom</title>
@@ -28,6 +28,13 @@
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Taginprag/tours/burg/</guid>
       <description>Bei dieser Tour erkunden wir das gigantische Burgareal, von den Ursprüngen der böhmischen Staatlichkeit über das Kaiserreich und die Habsburger Monarchie bis zum EU-Beitritt. Wir betreten auch den Veits-Dom, den alten Königspalast sowie das Goldene Gässchen.</description>
+    </item>
+    <item>
+      <title>Die Neustadt: Prag auf dem Weg zur Weltmetropole.</title>
+      <link>http://localhost:1313/Taginprag/tours/neustadt/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/neustadt/</guid>
+      <description>Bei dieser Tour erkunden wir die Prager Neustadt, vom Wenzelsplatz zum Nationaltheater. Schmelztiegel dreier Kulturen - hier begegneten sich jüdische, tschechische und deutsche Lebensarten. Wir sehen Relikte spätmittelalterlicher Monumente, ebenso wie archtitektonische Perlen aus der K&amp;amp;K-Zeit.</description>
     </item>
     <item>
       <title>Romantische Gassen der Kleinseite und Prager Burg</title>
@@ -44,11 +51,18 @@
       <description>Fahrradtouren – erkunde Prag auf zwei Rädern</description>
     </item>
     <item>
-      <title>Prag bei Nacht</title>
-      <link>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</link>
+      <title>Prag im Strom der modernen Geschichte</title>
+      <link>http://localhost:1313/Taginprag/tours/historisch/</link>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Taginprag/tours/prag-bei-nacht/</guid>
-      <description>Spaziergang durch das nächtliche Prag – lerne eine völlig neue Seite der Stadt kennen, sehe die neugotischen Türme</description>
+      <guid>http://localhost:1313/Taginprag/tours/historisch/</guid>
+      <description>Wir besuchen Orte in Prag, an denen Geschichte geschrieben wurde. Vom Ersten Weltkrieg bis zur Samtenen Revolution.</description>
+    </item>
+    <item>
+      <title>Prag bei Nacht</title>
+      <link>http://localhost:1313/Taginprag/tours/nachtspaziergang/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Taginprag/tours/nachtspaziergang/</guid>
+      <description>Spaziergang durch das nächtliche Prag – lernen Sie eine völlig neue Seite der Stadt kennen</description>
     </item>
   </channel>
 </rss>
